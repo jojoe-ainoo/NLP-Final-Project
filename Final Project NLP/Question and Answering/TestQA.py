@@ -13,6 +13,7 @@ import QR_Pairs
 
 if __name__=="__main__":
     if sys.argv[1] == "qa":
+        print(sys.argv[2])
         QR_Pairs.main(sys.argv[2])
     else:
         print("Try again and add a file name")

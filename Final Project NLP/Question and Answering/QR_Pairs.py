@@ -134,7 +134,7 @@ def main(questionfile):
 
 
 
-#main(sys.arg[0])
+#main('qatest.txt')
 
 
 # In[ ]:
