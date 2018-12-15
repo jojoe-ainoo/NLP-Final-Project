@@ -41,7 +41,7 @@ def partitionData(trianTestFile,trianTestFileTopics):
 
 def vectorizer():
     
-    dataframe = partitionData("/home/benjamin-kusi/2018-Projects/NLP-Final-Project/Final Project NLP/FAQs/Questions.txt","/home/benjamin-kusi/2018-Projects/NLP-Final-Project/Final Project NLP/FAQs/Answers.txt")
+    dataframe = partitionData("../FAQs/Questions.txt","../FAQs/Answers.txt")
      
     #using rule-based to normalize the data
     #Rule 1: All words should be converted into lowercase letters
@@ -105,7 +105,7 @@ def passTestFile(questionFile):
     tr_dataset = open(questionFile,"r")
 
     text_questions = []
-
+    To = open("answers.txt","a")
     line = tr_dataset.readline()
 
     while line:
@@ -128,13 +128,13 @@ def passTestFile(questionFile):
             similarities = most_similar(x, dataframe_lda_Z[1])
 
             document_id, similarity = similarities[0]
-            print(dataframe_lda_Z[0][document_id][:1000])
-    else:
-        print("Please pass a correct test data file!")
+            t = dataframe_lda_Z[0][document_id][:1000]
+            To.write(t +" \n")
+    To.close()
 
 
-# In[101]:
 
 
-passTestFile("/home/benjamin-kusi/2018-Projects/NLP-Final-Project/Final Project NLP/Topic Modelling/question.txt")
+
+
 
