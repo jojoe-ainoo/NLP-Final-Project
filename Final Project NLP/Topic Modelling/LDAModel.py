@@ -1,17 +1,16 @@
 
 # coding: utf-8
 
-# In[20]:
+# In[57]:
 
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer, TfidfTransformer
-from sklearn.datasets import fetch_20newsgroups
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 from sklearn.model_selection import train_test_split
 from sklearn.metrics.pairwise import euclidean_distances
 
 
-# In[3]:
+# In[58]:
 
 
 #restrcturing data in test file into a document-class grouping
@@ -37,7 +36,7 @@ def partitionData(trianTestFile,trianTestFileTopics):
     return ([document_data,document_class])
 
 
-# In[21]:
+# In[54]:
 
 
 def vectorizer():
@@ -66,17 +65,17 @@ def vectorizer():
     tf_feature_names = tf_vectorizer.get_feature_names()
 
 
-    no_topics = 126
+    no_topics = 10
 
     # Run LDA
     lda_model = LatentDirichletAllocation(n_topics=no_topics, max_iter=5, learning_method='online', learning_offset=50.,random_state=0).fit(tf)
     
     lda_Z = lda_model.fit_transform(data_vectorized)
     
-    return ([dataframe[1],lda_Z])
+    return ([dataframe[1],lda_Z,lda_model,vectorizer])
 
 
-# In[23]:
+# In[55]:
 
 
 
@@ -84,7 +83,8 @@ def vectorizer():
 def passTestFile(questionFile):
     
     dataframe_lda_Z = vectorizer()#calling the vectorizer to return the transformed lda_model
-    
+    lda_model = dataframe_lda_Z[2]
+    vectorizerObj = dataframe_lda_Z[3]
     tr_dataset = open(questionFile,"r")
 
     text_questions = []
@@ -99,8 +99,8 @@ def passTestFile(questionFile):
 
     #generating and printing all appropriate topics to questions
     if len(text_questions) > 0:
-        for in text_questions:
-            x = lda_model.transform(vectorizer.transform([text_questions]))[0]
+        for question in text_questions:
+            x = lda_model.transform(vectorizerObj.transform([question]))[0]
 
             def most_similar(x, Z, top_n=5):
                 dists = euclidean_distances(x.reshape(1, -1), Z)
