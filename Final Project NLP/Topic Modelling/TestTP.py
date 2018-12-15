@@ -20,6 +20,8 @@ import LogisticsRModel
 import NaiveBayesModel
 
 
+import LogisticsRModel
+
 
 def TestClassifer(testfile,vectorizer,tfidf_transformer,model):
     reviews_new = []
