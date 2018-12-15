@@ -1,4 +1,4 @@
-# Implemented by Emmanuel Jojoe Ainoo (LOGISTICS REGRESSION CLASSFIER)
+# Implemented by Emmanuel Jojoe Ainoo (LOGISTICS REGRESSION CLASSFIER) for Topic Modelling
 
 import sys
 import sklearn
@@ -38,6 +38,7 @@ def VectorizeNorm(data):
     vectorizer = CountVectorizer(
         analyzer = 'word',
         lowercase = True,
+        stop_words='english',
     )
     features = vectorizer.fit_transform(data)
     features_nd = features.toarray()
@@ -55,7 +56,7 @@ def Split(features_nd,data_labels):
     X_train, X_test, y_train, y_test  = train_test_split(
             features_nd,
             data_labels,
-            train_size=0.8,
+            train_size=0.80,
             random_state=1234)
     return[X_train, X_test, y_train, y_test]
 
@@ -82,7 +83,7 @@ def Evaluate(evaluate):
     return evaluate
 
 def main():
-    print("Starting")
+    print("Start Running Main Methods")
     traindoc = "../FAQs/Questions.txt"
     trainClass = "../FAQs/Topics.txt"
 
