@@ -92,24 +92,24 @@
 92.	What does XSLT stand for?
 93.	What does HTTP stand for?
 94.	What is Java?
-95.	What is XML?	
-96.	What is ASP?	
+95.	What is XML?
+96.	What is ASP?
 97.	What is Python?
 98.	What is AngularJS?
 99.	What is Bootstrap?
 100.	What is JSON?
 101.	What is Node.js?
-102.	What is AJAX?	
+102.	What is AJAX?
 103.	What is HTML?
 104.	What is JavaScript?
 105.	What is CSS?
-106.	What is jQuery?	
+106.	What is jQuery?
 107.	What is SQL?
 108.	What is PHP?
 109.	What is an RSS feed?
 110.	What is ReactJS?
 111.	What is React Native?
-112.	What is VueJS?	
+112.	What is VueJS?
 113.	What are HTML attributes?
 114.	What is responsive web design
 115.	What is HTML5?
@@ -126,7 +126,7 @@
 126.	Where was the original 2014 world cup's ball produced?
 127.	What's the most goals scored in a world cup match?
 128.	Did America coin the term "soccer"?
-129.	What is the Australian national soccer team called? 
+129.	What is the Australian national soccer team called?
 130.	Who was the youngest ever professional soccer player?
 131.	When was the first soccer game televised?
 132.	What was the first soccer game televised? And what teams played?
@@ -138,11 +138,11 @@
 138.	When was FIFA founded?
 139.	Where is the headquarter of FIFA?
 140.	How many member countries does FIFA have?
-141.	Where did the first world cup take place? 
+141.	Where did the first world cup take place?
 142.	How many teams participated in the first world cup?
-143.	Who won the first world cup? 
+143.	Who won the first world cup?
 144.	What is the UEFA Champions League?
-145.	When was the UEFA Champions League founded? 
+145.	When was the UEFA Champions League founded?
 146.	Who's the top scorer in the World Cup?
 147.	Who holds the record for top scorer in a single World Cup?
 148.	Who was the first team to win the Champions League?
@@ -151,7 +151,7 @@
 151.	What is the biggest win in a World Cup Qualifying game?
 152.	What national team has the most world cup trophies?
 153.	Who is the oldest player to win the world cup?
-154.	Has any team participated in all world cup competitions? 
+154.	Has any team participated in all world cup competitions?
 155.	Who scored the fastest hattrick in the UEFA Champions League?
 156.	Has any team won the world cup back-to-back?
 157.	Which teams have won the world cup as a host?
@@ -162,7 +162,7 @@
 162.	Is there a "three day right to cancel" when buying a car?
 163.	Is the dealer invoice price the real dealer cost on new cars?
 164.	Is leasing cheaper than buying?
-165.	What is a good lease deal? 
+165.	What is a good lease deal?
 166.	What is the condition of your vehicles?
 167.	Can I order a used car?
 168.	Can I have an Independent inspection performed?
@@ -298,56 +298,56 @@
 98. What�s the capital of Kenya?��
 99. Which is the largest ocean?�
 100. What�s the capital of Honduras?�
-101. What does USA stand for?�� 
-102. How many states is United States composed of?�� 
-103. What is the capital city of United states?�� 
-104. Which is the world's oldest surviving federation�� 
-105. A citizen of the United states is called?�� 
-106. The first inhabitant of North America migrated from?�� 
-107. How many people are in the United States?�� 
-108. How old is America?�� 
-109. Who won the 2016 presidential election in the United States?�� 
-110. Who discovered America?�� 
-111. What percentage of Americans voted in 2016?�� 
-112. When was slavery abolished in USA?�� 
-113. Is Puerto part of the United States?�� 
-114. How many gold medals does USA have?�� 
-115. Is United states of America a country?�� 
-116. How many aircraft carriers does the United States have?�� 
-117. What�s the country code for America?�� 
-118. When did America become a country?�� 
-119. How many time zones are in the US?�� 
-120. Which country recognized America as a country�� 
-121. Independence Day was first established as a holiday by congress in what year?�� 
-122. Which year did Texas become a state?�� 
-123. Who was the first president to live in the white house?�� 
-124. Which battle was the turning point of American Revolution?�� 
-125. Which year did the US stock market face the black Monday?�� 
-126. Name the tax which was imposed on the goods in the country�� 
-127. Name the first cash crop of America�� 
-128. Which European language was first spoken in the United States?�� 
-129. In what year did English become the official language of America?�� 
-130. What is the name of the first American Constitution?�� 
-131. How many blacks has become the President of America?�� 
-132. In which year was the first commercial flight of America scheduled?�� 
-133. Which treaty forced Britain to recognize united states as an independent nation?�� 
-134. Who was the first president of United states to appear on television?�� 
-135. Who was the 16th president of the United States?�� 
-136. Which state was formally not admitted in the Union of the US?�� 
-137. When was the last amendment made in the constitution of America?�� 
-138. Which city of America firstly used electricity for the street lights?�� 
-139. Which year was the American constitution written?�� 
-140. Who coined the word New England?�� 
-141. Which President gave the shortest inaugural speech�� 
-142. Name the oldest city of the United States�� 
-143. Who was the last man to sign the declaration of independence?�� 
-144. Name the Oldest elected president of America�� 
-145. Who was the first president to be born in the United States?�� 
-146. Where was the republican party founded?�� 
-147. Name the America's worst national disaster�� 
-148. Name the first American space station�� 
-149. Name the first carrier of Typhoid in the united states�� 
-150. Which area was hit by the deadliest hurricane of US?�� 
+101. What does USA stand for?��
+102. How many states is United States composed of?��
+103. What is the capital city of United states?��
+104. Which is the world's oldest surviving federation��
+105. A citizen of the United states is called?��
+106. The first inhabitant of North America migrated from?��
+107. How many people are in the United States?��
+108. How old is America?��
+109. Who won the 2016 presidential election in the United States?��
+110. Who discovered America?��
+111. What percentage of Americans voted in 2016?��
+112. When was slavery abolished in USA?��
+113. Is Puerto part of the United States?��
+114. How many gold medals does USA have?��
+115. Is United states of America a country?��
+116. How many aircraft carriers does the United States have?��
+117. What�s the country code for America?��
+118. When did America become a country?��
+119. How many time zones are in the US?��
+120. Which country recognized America as a country��
+121. Independence Day was first established as a holiday by congress in what year?��
+122. Which year did Texas become a state?��
+123. Who was the first president to live in the white house?��
+124. Which battle was the turning point of American Revolution?��
+125. Which year did the US stock market face the black Monday?��
+126. Name the tax which was imposed on the goods in the country��
+127. Name the first cash crop of America��
+128. Which European language was first spoken in the United States?��
+129. In what year did English become the official language of America?��
+130. What is the name of the first American Constitution?��
+131. How many blacks has become the President of America?��
+132. In which year was the first commercial flight of America scheduled?��
+133. Which treaty forced Britain to recognize united states as an independent nation?��
+134. Who was the first president of United states to appear on television?��
+135. Who was the 16th president of the United States?��
+136. Which state was formally not admitted in the Union of the US?��
+137. When was the last amendment made in the constitution of America?��
+138. Which city of America firstly used electricity for the street lights?��
+139. Which year was the American constitution written?��
+140. Who coined the word New England?��
+141. Which President gave the shortest inaugural speech��
+142. Name the oldest city of the United States��
+143. Who was the last man to sign the declaration of independence?��
+144. Name the Oldest elected president of America��
+145. Who was the first president to be born in the United States?��
+146. Where was the republican party founded?��
+147. Name the America's worst national disaster��
+148. Name the first American space station��
+149. Name the first carrier of Typhoid in the united states��
+150. Which area was hit by the deadliest hurricane of US?��
 151. What is "serverless"? Where can one learn more about it, and how it can be used today?��
 152. What�is�the AWS Serverless Application Repository?��
 153. What is AWS Lambda?��
@@ -469,8 +469,8 @@ How do I know when Siri is recording?
 29. How do I disable Drop In?
 30. What are Announcements?
 31. Can I link third-party communications services with Alexa Calling and Messaging?
-32. How do I use Alexa on Fire TV devices? 
-33. How do I know when my Fire TV device is streaming my voice to the Cloud? 
+32. How do I use Alexa on Fire TV devices?
+33. How do I know when my Fire TV device is streaming my voice to the Cloud?
 34. How do I activate Alexa hands-free on my Fire tablet?
 35. How does Alexa hands-free on my Fire tablet recognise the wake word?
 36. How do I know when Alexa on my Fire tablet is streaming my voice to the Cloud?
@@ -495,7 +495,7 @@ How do I know when Siri is recording?
 4.	Do I need Wi-Fi or mobile data to use Bixby?
 5.	Can I change the language of Bixby?
 6.	What is Open Trivia?
-7.	Can I change the speaking style of Bixby Voice? 
+7.	Can I change the speaking style of Bixby Voice?
 8.	Which functionalities are supported by Bixby Voice?
 9.	How do I see my last conversations with Bixby?
 10.	How do I know when Bixby is listening?
@@ -533,7 +533,7 @@ How do I know when Siri is recording?
 42.	How do I get rid of Bixby?
 43.	How do I set up Bixby voice?
 44.	Is Bixby like Siri?
-45.	What does Bixby app do? 
+45.	What does Bixby app do?
 46.	How to setup Bixby voice
 47.	How to use Bixby Home
 48.	What does Samsung Bixby do?
@@ -562,7 +562,7 @@ How do I know when Siri is recording?
 21 Do I need to use third-party tools to keep my data secure within Google?
 22 My organization is subject to EU data protection requirements. Can I use G Suite?
 23 Can I move my old email, calendar events, and contacts to G Suite?
-24 Will I experience email downtime during the transition? 
+24 Will I experience email downtime during the transition?
 25 Will this transition affect my current website? Can you host my website?
 26 Can I use my own domain with G Suite? If I don�t have an existing domain, what should I do?
 27 Can someone set up G Suite for my company?
@@ -852,11 +852,11 @@ Is Canada a geographically vast and ethnically diverse country ?
 Is it the world 's second largest country by total area?
 Is the violin cello a bowed string instrument?
 Is the purfling just for decoration?
-Are the z-holes used as access points to the interior of the cello? 
+Are the z-holes used as access points to the interior of the cello?
 What does violincello mean?
-What are the two materials that bows are made of traditionally? 
+What are the two materials that bows are made of traditionally?
 What is used to tune a cello?
-Which harmonics can produce any notes above middle C? 
+Which harmonics can produce any notes above middle C?
 Who referred to the cello as basso de viola da braccio"?
 Where is the violincello held?
 Is there cello in performances by Rihanna?
@@ -868,11 +868,11 @@ Why is there purling on a cello?
 When did the first educational works appear for the cello?
 What cello manufacturer should I buy from if I want to play outside?
 Was Charles-Augustin de Coulomb a member of the National Institute?
-Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 
-Was Charles-Augustin de Coulomb's father's family in Montpellier? 
+Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles?
+Was Charles-Augustin de Coulomb's father's family in Montpellier?
 Where did Charles-Augustin de Coulomb die?
 Where did the construction of Fort Bourbon take place?
-What is the definition of the electrostatic force of attraction and repulsion? 
+What is the definition of the electrostatic force of attraction and repulsion?
 Did Charles-Augustin de Coulomb live to be 80 years old?
 Was The SI  unit  of charge , the  coulomb , named after him?
 Was coulomb born in Angoul�me,  France ,  to a well  to do  family?
@@ -907,7 +907,7 @@ Copenhagen is the capital of what country?
 What transnational bridge was completed in 2000?
 Why is Copenhagen a regional hub?
 What happened to Copenhagen between 1251 and 1255?
-Is Copenhagen completely surrounded with water? 
+Is Copenhagen completely surrounded with water?
 Copenhagen is ranked number one worldwide for which things?
 Why did German troops occupy Copenhagen?
 Is a cougar also known as a mountain lion?
@@ -1375,7 +1375,7 @@ What was Adams' political party?
 What was Adams' political party?
 Was Adams the first to introduce a bicameral legislature?
 Did John Adams get along with Alexander Hamilton?
-Did John Adams go to Harvard? 
+Did John Adams go to Harvard?
 Did John Adams support the Stamp Act of 1765?
 Is Adams' birthplace part of a national park?
 When did John Adams serve as Vice President?
@@ -1605,7 +1605,7 @@ Where did he serve two terms?
 Who was born in Newington Butts, near present-day South London, England?
 Is it true that institution formed the foundation of electric motor technology?
 Institution formed the foundation of what?
-Give an example of the most renowned works of the Renaissance. 
+Give an example of the most renowned works of the Renaissance.
 Was Michelangelo's output in every field during his long life prodigious?
 Did Millard Filmore die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?
 What is The Remarkable Millard Fillmore?
@@ -1888,8 +1888,8 @@ Does Romania share the same language with Moldova?
 Who was the first gymnast to score a perfect "ten"?
 What is the largest city in Romania?
 What is the largest ethnic minority in Romania?
-How many countries in Europe are bigger than Romania?  
-Why doesn't Romania have a state religion?  
+How many countries in Europe are bigger than Romania?
+Why doesn't Romania have a state religion?
 Why wasn't Romania neutral during World War II?
 Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?
 What are approximately 42,000 years old and have been nicknamed`` John of Anina''?
@@ -1910,9 +1910,9 @@ How to travel to work from the city to Moscow?
 Who laid down the Peter and Paul Fortress?
 When was the 7th symphony premiered?
 Has Equestrianism been a long tradition, popular among the Tsars and aristocracy?
-Give an example of the largest stadiums anywhere in the world, and the home to FC Zenit St. Petersburg in 1950-1993 and 1995. 
-Give an example of the best known symphony orchestras in the world under the leadership of conductors Yevgeny Mravinsky and Yuri Temirkanov. 
-Give an example of the longest, most destructive, and most lethal sieges of major cities in modern history. 
+Give an example of the largest stadiums anywhere in the world, and the home to FC Zenit St. Petersburg in 1950-1993 and 1995.
+Give an example of the best known symphony orchestras in the world under the leadership of conductors Yevgeny Mravinsky and Yuri Temirkanov.
+Give an example of the longest, most destructive, and most lethal sieges of major cities in modern history.
 Is the standard of living in San Franciscio high?
 Does San Francisco have a high percentage of gay and lesbian individuals?
 Is San Franscico a popular tourist destination?
@@ -2406,86 +2406,86 @@ How logical inference can be solved in Propositional Logic?
 Which process makes different logical expression looks identical?
 Which algorithm in �Unification and Lifting� takes two sentences and returns a unifier?
 Which is the most straight forward approach for planning algorithm?
-My computer does not turn on, what do I do now? 
-What do I do when my computer crashes? 
-What do I do if my hard disk fails to work? 
-There is no display on the monitor, what do I do now? 
-What do I do if the image on screen is distorted or skewed? 
-I get a 'no signal input' message, what do I do? 
-There are black borders on my screen, what do I do? 
-Why is my mouse acting erratically? 
-The wheel on my mouse isn't working properly, what do I do? 
-How can I clean my keyboard? 
-How do I get into safe mode? 
-I can't delete a file because it is being used by Windows? 
-How can I update my Microsoft Windows computer? 
-Is it safe to turn off a Windows computer without doing a shut down? 
-How can I recover a file from the recycle bin? 
-I am unable to send or receive email? 
-I can't receive any email attachments? 
-Are spaces allowed in email addresses? 
-My printer is printing smudged/distorted pages? 
-How do I fix a paper jam? 
-I lost my printer installation disk, how can I install my printer? 
-I can't connect to my network drive anymore? 
-How do I map a network drive? 
-How do I determine my computer's name? 
-What is a computer virus? 
-Does Windows come with a virus protection program? 
-Can a virus damage computer hardware? 
-If I format or erase my hard drive will it remove a virus? 
-How do I delete Internet cookies? 
-What are the penalties for installing software without being legally licensed? 
-May I install software on my computer that is not supported by UNCG? 
-How can I make a suggestion for an application for ITS to buy for campus? 
-Why can't I see a program that I know is on the network? 
-Can I buy software at a discount from ITS? 
-I need to reinstall the software; how do I get more downloads? 
-Where do I find the code to activate my software? 
-Read&Write is prompting me for an activation code. What do I do? 
-What is the difference between 32-bit and 64-bit versions of Windows? 
-Which version of Windows should I install? 
-How can I tell which version my computer is running? 
-What Is An Object Server? 
-What Is Mail Gateway? 
-What Is Rip (routing Information Protocol)? 
-What Is Nvt (network Virtual Terminal)? 
-What Is Source Route? 
-What Is Bgp (border Gateway Protocol)? 
-What Is Gateway-to-gateway Protocol? 
-What Is A Transaction Server? 
-What Is A Database Server? 
-What Are The Most Typical Functional Units Of The Client/server Applications? 
-What Are All The Extended Services Provided By The Os? 
-What Are Triggers And Rules? 
-What Is Meant By Transparency? 
-What Are Tp-lite And Tp-heavy Monitors? 
-What Are The Two Types Of Oltp? 
-What Is A Web Server? 
-What Are Super Servers? 
-What Is A Tp Monitor? 
-Tp Monitor Does Mainly Two Things Extremely Well. They Are Process Management And Transaction Management.? 
-What Is Meant By Asymmetrical Protocols? 
-What Is The Difference Between Trigger And Rule? 
-What Are Called Transactions? 
-What Are The Building Blocks Of Client/server? 
-Explain The Building Blocks Of Client/server? 
-The Middleware Buliding Block Runs On Both The Client And Server Sides Of An Application. It  Broken Into Three Categories? 
-What Are All The Base Services Provided By The Os? 
-What Is Structured Query?Langauge?(sql)? 
-What Is Remote Procedure Call (rpc)? 
-What Are The Main Components Of Transaction-based Systems? 
-What Are The Three Types Of Sql Database Server Architecture? 
-What are Non-gui Clients? 
-What are Gui Clients? 
-What are Ooui Clients? 
-What Is Message Oriented Middleware (mom)? 
-What Is Meant By Middleware? 
-What Are The Functions Of The Typical Server Program? 
-What Is Meant By Symmentric Multiprocessing (smp)? 
-What Are General Middleware? 
-What Are Service-specific Middleware? 
-What Is Meant By Asymmetric Multiprocessing (amp)? 
+My computer does not turn on, what do I do now?
+What do I do when my computer crashes?
+What do I do if my hard disk fails to work?
+There is no display on the monitor, what do I do now?
+What do I do if the image on screen is distorted or skewed?
+I get a 'no signal input' message, what do I do?
+There are black borders on my screen, what do I do?
+Why is my mouse acting erratically?
+The wheel on my mouse isn't working properly, what do I do?
+How can I clean my keyboard?
+How do I get into safe mode?
+I can't delete a file because it is being used by Windows?
+How can I update my Microsoft Windows computer?
+Is it safe to turn off a Windows computer without doing a shut down?
+How can I recover a file from the recycle bin?
+I am unable to send or receive email?
+I can't receive any email attachments?
+Are spaces allowed in email addresses?
+My printer is printing smudged/distorted pages?
+How do I fix a paper jam?
+I lost my printer installation disk, how can I install my printer?
+I can't connect to my network drive anymore?
+How do I map a network drive?
+How do I determine my computer's name?
+What is a computer virus?
+Does Windows come with a virus protection program?
+Can a virus damage computer hardware?
+If I format or erase my hard drive will it remove a virus?
+How do I delete Internet cookies?
+What are the penalties for installing software without being legally licensed?
+May I install software on my computer that is not supported by UNCG?
+How can I make a suggestion for an application for ITS to buy for campus?
+Why can't I see a program that I know is on the network?
+Can I buy software at a discount from ITS?
+I need to reinstall the software; how do I get more downloads?
+Where do I find the code to activate my software?
+Read&Write is prompting me for an activation code. What do I do?
+What is the difference between 32-bit and 64-bit versions of Windows?
+Which version of Windows should I install?
+How can I tell which version my computer is running?
+What Is An Object Server?
+What Is Mail Gateway?
+What Is Rip (routing Information Protocol)?
+What Is Nvt (network Virtual Terminal)?
+What Is Source Route?
+What Is Bgp (border Gateway Protocol)?
+What Is Gateway-to-gateway Protocol?
+What Is A Transaction Server?
+What Is A Database Server?
+What Are The Most Typical Functional Units Of The Client/server Applications?
+What Are All The Extended Services Provided By The Os?
+What Are Triggers And Rules?
+What Is Meant By Transparency?
+What Are Tp-lite And Tp-heavy Monitors?
+What Are The Two Types Of Oltp?
+What Is A Web Server?
+What Are Super Servers?
+What Is A Tp Monitor?
+Tp Monitor Does Mainly Two Things Extremely Well. They Are Process Management And Transaction Management.?
+What Is Meant By Asymmetrical Protocols?
+What Is The Difference Between Trigger And Rule?
+What Are Called Transactions?
+What Are The Building Blocks Of Client/server?
+Explain The Building Blocks Of Client/server?
+The Middleware Buliding Block Runs On Both The Client And Server Sides Of An Application. It  Broken Into Three Categories?
+What Are All The Base Services Provided By The Os?
+What Is Structured Query?Langauge?(sql)?
+What Is Remote Procedure Call (rpc)?
+What Are The Main Components Of Transaction-based Systems?
+What Are The Three Types Of Sql Database Server Architecture?
+What are Non-gui Clients?
+What are Gui Clients?
+What are Ooui Clients?
+What Is Message Oriented Middleware (mom)?
+What Is Meant By Middleware?
+What Are The Functions Of The Typical Server Program?
+What Is Meant By Symmentric Multiprocessing (smp)?
+What Are General Middleware?
+What Are Service-specific Middleware?
+What Is Meant By Asymmetric Multiprocessing (amp)?
 What Is Oltp?
 How to sign in to gmail?
 How to add or remove inbox categories & tabs in gmail?
@@ -2494,7 +2494,7 @@ How to change email notifications?
 How to send and open confidential emails?
 How to use smart compose?
 Forgotten my Password
-How do I get help and support?               
+How do I get help and support?
 My account was hacked, how do I get it back?
 My password no longer works, how do I get a new one?
 Why am I receiving e-mail to an address similar to my own?
@@ -2515,7 +2515,7 @@ Will my Gmail address or other contact information be visible on the web?
 What does it mean that Google may use my information to personalize content and ads on non-Google websites?
 Why do I see my profile picture and name sometimes when I sign in?
 What is the Google sign-in process like?
-Is my Google Account username the same as my Gmail username? 
+Is my Google Account username the same as my Gmail username?
 How will Google use my email address?
 Why do I get a Gmail address with my Google Account?
 Can I sign in to my Google Account with my current, non-Gmail email address?
@@ -2526,88 +2526,83 @@ Are my search queries sent to websites when I click on Google Search results?
 How do I Update Google Chrome?
 How can I Remove unwanted ads, pop-ups & malware?
 How can I delete my browsing data?
-What is the Internet of Everything? 
-Why is the Internet of Everything important? 
-How does the Internet of Everything relate to the Internet of Things? 
-Why is the Internet of Everything happening now? 
-What risks and challenges should be considered in the Internet of Everything? 
-What role does the network play in the Internet of Everything? 
-How does the Internet of Everything relate to our new brand campaign? 
-What is the current state of security in IoT products on the consumer scale, such as household appliances, wearables, smart-home systems, etc.? 
-Why are there such poor security practices in IoT products? 
-How do we best address the technical challenges impacting security for the IoT? 
-How can an organization implement a trusted IoT security framework? 
-How is the private key generated? 
-If the private key is generated "on-device", then how many lines of code need to be written by the developer (approximately)? 
-If the private key is generated "off-device", then how many lines code need to be written by the developer (approximately)? 
-How is the private key stored and protected? 
-Is storing the private key in hardware an option? 
-Does the private key ever have to be off-device? 
-What languages are supported? 
-How is the device seeded with a unique identifier? 
-How does an IoT provider initially seed the device? 
-How does an IoT provider re-seed a device? 
-How does an IoT provider revoke a certificate? 
-How does an IoT provider manage which systems are trusted? 
-How does an IoT provider update the list of trusted systems securely? 
-What are the options for lengths of certificate expiration? 
-Can certificates be automatically provisioned and enrolled? 
-Approximately how many lines of code need to be written by the developer to ensure software package integrity? 
-Approximately how many lines of code need to be written by the developer for device-to-application secured communication? 
-Will IoT actually work over the internet or will it have its own dedicated wide area network 
-What effect will the internet of things (IoT) have on our daily lives? 
-What type of algorithms are needed for IoT?  
-Will there be a different IP address allocation strategy for IoT devices?  
-How much data is used by IOT solutions?  
-How much power will IOT devices consume?  
-How well is security developed in IoT? Especially the low power devices? Are there any security architectures and algorithms developed? And what are the difficulties in implementing security in IoT?  
-With the vast array of data generated by IoT technologies, how will this be impacted by the General Data Protection Regulations (GDPR)?  
-What uses and benefits can IoT have for the financial services industry? 
-Can IoT control the home?  
-Which part of IoT will create the most jobs? Is it the developing part or hardware maintenance?  
-How much does standardization play a role in IoT, and how can we take into consideration the needs of developing nations like India?  
-Is BlockChain centralized or decentralized? 
-What is a Merkle Tree? 
-What is Elliptic curve cryptography Digital signature algorithm? 
-Why ECC is better than RSA? 
-What is a ledger? 
-What is the difference between Blockchain and distributed ledger? 
-What is Quorum Slice? 
-What is a segment tree? 
-What is Diffie Hellman key exchange? 
-How are boxes linked in a BlockChain? 
-Write a python program to perform word tokenization? 
-Write a function to calculate multiplicative inverse of two numbers? 
-Which of these facts about a ledger is NOT CORRECT? 
-Which benefits of a BlockChain enabled business network engender TRUST? 
-What is bitcoin? 
-What is the core requirement(s) for a business BlockChain? 
-The primary benefit of immutability is � 
-A smart contract is � 
-In a business BlockChain, transactions � 
-What is the appropriate use of business BlockChain? 
-What makes a good Block Chain use case? 
-What factors can help ensure a successful FIRST BlockChain use case project? 
-What do you understand by "burning of tokens" 
-Can you explain me the difference between "contract address" and "owner address"? 
-What are the best practices while writing the smart contracts? 
-What is ERC20 token? 
-How my ethereum wallet works? 
-How write a whole document in ethereum BlockChain? 
-Can I transfer ether from a wallet to smart contract directly without invoking a payable function? 
-Name some Test Networks for ethereum? 
-Which IDE should we use for the development of the smart contracts? 
-Define BlockChain in the simplest words? 
-Can you name some consensus algorithms? 
-What are hash functions in BlockChain? 
-What are some properties of hash functions? 
-Why there is a transaction fee included in the transactions of bitcoin and where does it go? 
-How will you define the mining? 
-Can you name some details that are sent to the block of bitcoin? 
-How do the public key and private key generation work? 
+What is the Internet of Everything?
+Why is the Internet of Everything important?
+How does the Internet of Everything relate to the Internet of Things?
+Why is the Internet of Everything happening now?
+What risks and challenges should be considered in the Internet of Everything?
+What role does the network play in the Internet of Everything?
+How does the Internet of Everything relate to our new brand campaign?
+What is the current state of security in IoT products on the consumer scale, such as household appliances, wearables, smart-home systems, etc.?
+Why are there such poor security practices in IoT products?
+How do we best address the technical challenges impacting security for the IoT?
+How can an organization implement a trusted IoT security framework?
+How is the private key generated?
+If the private key is generated "on-device", then how many lines of code need to be written by the developer (approximately)?
+If the private key is generated "off-device", then how many lines code need to be written by the developer (approximately)?
+How is the private key stored and protected?
+Is storing the private key in hardware an option?
+Does the private key ever have to be off-device?
+What languages are supported?
+How is the device seeded with a unique identifier?
+How does an IoT provider initially seed the device?
+How does an IoT provider re-seed a device?
+How does an IoT provider revoke a certificate?
+How does an IoT provider manage which systems are trusted?
+How does an IoT provider update the list of trusted systems securely?
+What are the options for lengths of certificate expiration?
+Can certificates be automatically provisioned and enrolled?
+Approximately how many lines of code need to be written by the developer to ensure software package integrity?
+Approximately how many lines of code need to be written by the developer for device-to-application secured communication?
+Will IoT actually work over the internet or will it have its own dedicated wide area network
+What effect will the internet of things (IoT) have on our daily lives?
+What type of algorithms are needed for IoT?
+Will there be a different IP address allocation strategy for IoT devices?
+How much data is used by IOT solutions?
+How much power will IOT devices consume?
+How well is security developed in IoT? Especially the low power devices? Are there any security architectures and algorithms developed? And what are the difficulties in implementing security in IoT?
+With the vast array of data generated by IoT technologies, how will this be impacted by the General Data Protection Regulations (GDPR)?
+What uses and benefits can IoT have for the financial services industry?
+Can IoT control the home?
+Which part of IoT will create the most jobs? Is it the developing part or hardware maintenance?
+How much does standardization play a role in IoT, and how can we take into consideration the needs of developing nations like India?
+Is BlockChain centralized or decentralized?
+What is a Merkle Tree?
+What is Elliptic curve cryptography Digital signature algorithm?
+Why ECC is better than RSA?
+What is a ledger?
+What is the difference between Blockchain and distributed ledger?
+What is Quorum Slice?
+What is a segment tree?
+What is Diffie Hellman key exchange?
+How are boxes linked in a BlockChain?
+Write a python program to perform word tokenization?
+Write a function to calculate multiplicative inverse of two numbers?
+Which of these facts about a ledger is NOT CORRECT?
+Which benefits of a BlockChain enabled business network engender TRUST?
+What is bitcoin?
+What is the core requirement(s) for a business BlockChain?
+The primary benefit of immutability is �
+A smart contract is �
+In a business BlockChain, transactions �
+What is the appropriate use of business BlockChain?
+What makes a good Block Chain use case?
+What factors can help ensure a successful FIRST BlockChain use case project?
+What do you understand by "burning of tokens"
+Can you explain me the difference between "contract address" and "owner address"?
+What are the best practices while writing the smart contracts?
+What is ERC20 token?
+How my ethereum wallet works?
+How write a whole document in ethereum BlockChain?
+Can I transfer ether from a wallet to smart contract directly without invoking a payable function?
+Name some Test Networks for ethereum?
+Which IDE should we use for the development of the smart contracts?
+Define BlockChain in the simplest words?
+Can you name some consensus algorithms?
+What are hash functions in BlockChain?
+What are some properties of hash functions?
+Why there is a transaction fee included in the transactions of bitcoin and where does it go?
+How will you define the mining?
+Can you name some details that are sent to the block of bitcoin?
+How do the public key and private key generation work?
 Can you write a smart contract for "Hello Word" in solidity?
-
-
-
-
-

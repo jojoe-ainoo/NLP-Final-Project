@@ -39,43 +39,43 @@
 39.	History and facts about Ghana
 40.	History and facts about Ghana
 41.	Facts about Kenya
-42.	Facts about Kenya 
+42.	Facts about Kenya
 43.	Facts about Kenya
 44.	Facts about Kenya
 45.	Facts about Kenya
-46.	Facts about Kenya 
+46.	Facts about Kenya
 47.	Facts about Kenya
 48.	Facts about Kenya
 49.	Facts about Kenya
-50.	Facts about Kenya 
+50.	Facts about Kenya
 51.	Facts about Kenya
 52.	Facts about Kenya
 53.	Facts about Kenya
-54.	Facts about Kenya 
+54.	Facts about Kenya
 55.	Facts about Kenya
 56.	Facts about Kenya
 57.	Facts about Kenya
-58.	Facts about Kenya 
+58.	Facts about Kenya
 59.	Facts about Kenya
 60.	Facts about Kenya
 61.	Facts about Kenya
-62.	Facts about Kenya 
+62.	Facts about Kenya
 63.	Facts about Kenya
 64.	Facts about Kenya
 65.	Facts about Kenya
-66.	Facts about Kenya 
+66.	Facts about Kenya
 67.	Facts about Kenya
 68.	Facts about Kenya
 69.	Facts about Kenya
-70.	Facts about Kenya 
+70.	Facts about Kenya
 71.	Facts about Kenya
 72.	Facts about Kenya
 73.	Facts about Kenya
-74.	Facts about Kenya 
+74.	Facts about Kenya
 75.	Facts about Kenya
 76.	Facts about Kenya
 77.	Facts about Kenya
-78.	Facts about Kenya 
+78.	Facts about Kenya
 79.	Facts about Kenya
 80.	Facts about Kenya
 81.	Web Development
@@ -572,9 +572,9 @@ Apple HomePod
 31 G-Suite
 32 G-Suite
 33 G-Suite
-34 G-Suite 
+34 G-Suite
 35 G-Suite
-36 G-Suite 
+36 G-Suite
 37 G-Suite
 38 G-Suite
 39 G-Suite
@@ -2406,86 +2406,86 @@ Artificial Intelligence
 Artificial Intelligence
 Artificial Intelligence
 Artificial Intelligence
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Common IT Issues 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
-Networking 
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
+Common IT Issues
 Networking
-Networking 
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
+Networking
 Networking
 Google and Gmail
 Google and Gmail
@@ -2526,45 +2526,45 @@ Google and Gmail
 Google and Gmail
 Google and Gmail
 Google and Gmail
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
-Internet of Things 
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
+Internet of Things
 Internet of Things
 BLOCKCHAIN
 BLOCKCHAIN
