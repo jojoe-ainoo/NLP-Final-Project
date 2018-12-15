@@ -72,11 +72,7 @@ def vectorizer():
     
     lda_Z = lda_model.fit_transform(data_vectorized)
     
-<<<<<<< HEAD
-    return ([dataframe[1],lda_Z,lda_model])
-=======
     return ([dataframe[1],lda_Z,lda_model,vectorizer])
->>>>>>> 11c8b06390e601461a4bd2f25d16f01be7cb27db
 
 
 # In[55]:
@@ -85,19 +81,14 @@ def vectorizer():
 
 #passing the test file with questions
 def passTestFile(questionFile):
-
-    To = open("answers.txt","a")
-    To.write("Topic Modelling using  \n")
     
     dataframe_lda_Z = vectorizer()#calling the vectorizer to return the transformed lda_model
-<<<<<<< HEAD
-
-    lda_model = dataframe_lda_Z[2]
-=======
     lda_model = dataframe_lda_Z[2]
     vectorizerObj = dataframe_lda_Z[3]
->>>>>>> 11c8b06390e601461a4bd2f25d16f01be7cb27db
     tr_dataset = open(questionFile,"r")
+
+    To = open("answers.txt","a")
+    To.write("Topic Modelling using LDA \n")
 
     text_questions = []
 
@@ -112,17 +103,7 @@ def passTestFile(questionFile):
     #generating and printing all appropriate topics to questions
     if len(text_questions) > 0:
         for question in text_questions:
-<<<<<<< HEAD
-            x = lda_model.transform(vectorizer.transform([question]))[0]
-
-               
-            
-            
-                
-            
-=======
             x = lda_model.transform(vectorizerObj.transform([question]))[0]
->>>>>>> 11c8b06390e601461a4bd2f25d16f01be7cb27db
 
             def most_similar(x, Z, top_n=5):
                 dists = euclidean_distances(x.reshape(1, -1), Z)
@@ -136,4 +117,5 @@ def passTestFile(questionFile):
             t = dataframe_lda_Z[0][document_id][:1000]
             To.write(t +" \n")
     To.close()
-    
+
+
