@@ -28,8 +28,8 @@ def display_topics(model, feature_names, no_top_words):
 def partitionData(trianTestFile,trianTestFileTopics):
     tr_dataset = open(trianTestFile,"r")
     tr_dataset_topics = open(trianTestFileTopics,"r")
-    
-    document_data = []     
+
+    document_data = []
     document_class = []
 
     line = tr_dataset.readline()
@@ -40,10 +40,10 @@ def partitionData(trianTestFile,trianTestFileTopics):
         document_class.append(line2)
         line = tr_dataset.readline()
         line2 = tr_dataset_topics.readline()
-        
+
     tr_dataset.close()
     tr_dataset_topics.close()
-    
+
     return ([document_data,document_class])
 
 
@@ -115,9 +115,8 @@ def most_similar(x, Z, top_n=5):
     pairs = enumerate(dists[0])
     most_similar = sorted(pairs, key=lambda item: item[1])[:top_n]
     return most_similar
- 
+
 similarities = most_similar(x, lda_Z)
 
 document_id, similarity = similarities[0]
 print(dataframe[1][document_id][:1000])
-
