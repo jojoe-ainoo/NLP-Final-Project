@@ -8,9 +8,13 @@ For Topic Modelling, Naive Bayes Classification, Logistics Regression Classifica
 For Question and Answering, Cosine Similarity and QR Pairs, Deep Learning and Information Retreival Approach
 
 
-## Teame Members
+## Team Members
 Emmanuel Jojoe Ainoo
+
 Kwame Boahene
+
 David Sasu
+
 Joseph Brown-Pobee
+
 Benjamin Kusi
