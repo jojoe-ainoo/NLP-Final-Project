@@ -48,9 +48,8 @@ def partitionData(trianTestFile,trianTestFileTopics):
 
 
 # In[5]:
-
-
 dataframe = partitionData("../FAQs/Questions.txt","../FAQs/Topics.txt")
+
 
 vectorizer = CountVectorizer(
     analyzer = 'word',
@@ -106,17 +105,36 @@ def print_topics(model, vectorizer, top_n=10):
 
 # In[16]:
 
+#passing the test file with questions
+def passTestFile(questionFile):
+    tr_dataset = open(questionFile,"r")
 
-text = "what school?"
-x = lda_model.transform(vectorizer.transform([text]))[0]
+    document_data = []
 
-def most_similar(x, Z, top_n=5):
-    dists = euclidean_distances(x.reshape(1, -1), Z)
-    pairs = enumerate(dists[0])
-    most_similar = sorted(pairs, key=lambda item: item[1])[:top_n]
-    return most_similar
+    line = tr_dataset.readline()
 
-similarities = most_similar(x, lda_Z)
+    while line:
+        document_data.append(line)
+        line = tr_dataset.readline()
 
-document_id, similarity = similarities[0]
-print(dataframe[1][document_id][:1000])
+    tr_dataset.close()
+    tr_dataset_topics.close()
+
+    return (document_data)
+
+text_questions = passTestFile("")
+
+#generating and printing all appropriate topics to questions
+for in text_questions:
+    x = lda_model.transform(vectorizer.transform([text_questions]))[0]
+
+    def most_similar(x, Z, top_n=5):
+        dists = euclidean_distances(x.reshape(1, -1), Z)
+        pairs = enumerate(dists[0])
+        most_similar = sorted(pairs, key=lambda item: item[1])[:top_n]
+        return most_similar
+
+    similarities = most_similar(x, lda_Z)
+
+    document_id, similarity = similarities[0]
+    print(dataframe[1][document_id][:1000])

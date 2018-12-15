@@ -71,9 +71,10 @@ def create_tag_files(filename):
         value = dictionary[line]
         labelled_topics.write(str(value)+"\n")
     clean_data.close()
-    labelled_topics.close()    
+    labelled_topics.close()
+
     
-create_tag_files("Topics.txt")    
+
 
 
 # In[88]:
@@ -87,8 +88,7 @@ def train_and_testLR(features_array, features_test, classes, classifier,version)
     lr = LogisticRegression().fit(X_trainset,Y_trainset)
     #the predict() function is responsble for predicting the class values of the test file given
     predictionValue = lr.predict(features_test)
-    for i in predictionValue:
-        print(topic_tags[i])
+    
 
 
 # In[89]:
@@ -102,8 +102,12 @@ def train_and_testNB(features_array,features_test, classes,classifier,version):
     nb = MultinomialNB().fit(X_trainset,Y_trainset)
     #the predict() function is responsble for predicting the class values of the test file given
     predictionValue = nb.predict(features_test)
+    To = open("answers.txt","a")
+    To.write("Topic Modelling using Naive Bayes \n")
+    #To.write("Using Naive bayes \n")
     for i in predictionValue:
-        print(topic_tags[i])
+        To.write(topic_tags[i]+" \n")
+    To.close()
     #evaluate = sklearn.metrics.accuracy_score(features_test, predictionValue)
     #print(evaluate)
     
@@ -140,8 +144,9 @@ def topic_answering(filename,classifier_type,version):
     prediction_values = []
     sentence_values = []
     test_sentences = []
-    file_info = open("Qtrain.txt", "r")
-    labelled_topics = open("Atrain.txt","r")
+    file_info = open("../FAQs/Questions.txt", "r")
+    create_tag_files("../FAQs/Topics.txt")    
+    labelled_topics = open("labelled_topics.txt","r")
     test_file = open(filename,"r")
     #append all of the numerical answer to the prediction values list
     for line1 in labelled_topics:
@@ -160,7 +165,7 @@ def topic_answering(filename,classifier_type,version):
     if classifier_type == "nb":
         train_and_testNB(vectorized_info[0],vectorized_info[1],prediction_values,classifier_type,version)
 
-topic_answering("new_Questions.txt","nb","u")
+#topic_answering("new_Questions.txt","nb","u")
     
     
 

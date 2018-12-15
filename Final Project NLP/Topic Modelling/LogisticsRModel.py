@@ -1,4 +1,4 @@
-# Implemented by Emmanuel Jojoe Ainoo (LOGISTICS REGRESSION CLASSFIER) for Topic Modelling
+# Implemented by Emmanuel Jojoe Ainoo (LOGISTICS REGRESSION CLASSFIER)
 
 import sys
 import sklearn
@@ -38,7 +38,6 @@ def VectorizeNorm(data):
     vectorizer = CountVectorizer(
         analyzer = 'word',
         lowercase = True,
-        stop_words='english',
     )
     features = vectorizer.fit_transform(data)
     features_nd = features.toarray()
@@ -56,7 +55,7 @@ def Split(features_nd,data_labels):
     X_train, X_test, y_train, y_test  = train_test_split(
             features_nd,
             data_labels,
-            train_size=0.80,
+            train_size=0.8,
             random_state=1234)
     return[X_train, X_test, y_train, y_test]
 
@@ -82,6 +81,9 @@ def PredictResults(model,X_test,y_test):
 def Evaluate(evaluate):
     return evaluate
 
+
+def main():
+    print("Starting")
 
 def TestClassifer(testfile,vectorizer,tfidf_transformer,model):
     reviews_new = []
@@ -114,4 +116,9 @@ def MakePrediction(file):
     # print(logEv)
 
     logTest = TestClassifer(file,vector[4],vector[2],trainLRModel)
-    return logTest
+    To = open("answers.txt","a")
+    To.write("Topic Modelling using Logistic Regression \n")
+    #To.write("Using Naive bayes \n")
+    for i in logTest:
+        To.write(i+" \n")
+    To.close()
