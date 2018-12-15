@@ -139,7 +139,8 @@ def main(questionfile):
 # In[64]:
 
 
-main(sys.arg[0])
+
+#main(sys.arg[0])
 
 
 # In[ ]:
