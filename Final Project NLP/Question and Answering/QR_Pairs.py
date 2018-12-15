@@ -120,12 +120,6 @@ def ansques(question):
     results.close()
 
 
-# In[60]:
-
-
-ansques('yoofi.txt')
-
-
 # In[63]:
 
 
