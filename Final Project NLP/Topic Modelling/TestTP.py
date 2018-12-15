@@ -1,4 +1,24 @@
-#  Code to Test
+
+import sys
+import sklearn
+from sklearn.datasets import load_files
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import accuracy_score
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import confusion_matrix
+import nltk
+import random
+import string
+from sklearn.metrics.pairwise import cosine_similarity
+import re
+
+
+import LogisticsRModel
+import NaiveBayesModel
+
 
 
 def TestClassifer(testfile,vectorizer,tfidf_transformer,model):
@@ -22,3 +42,16 @@ def WriteResults(results,Model):
     for result in results:
         file.write(result)
         file.write("\n")
+
+
+
+
+if __name__ == "__main__":
+    
+    if sys.argv[1] == "topic":
+        NaiveBayesModel.topic_answering(sys.argv[2],"nb","u")
+    
+    
+else:
+    print("Try again and add file name")
+
