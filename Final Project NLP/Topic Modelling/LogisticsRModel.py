@@ -81,10 +81,9 @@ def PredictResults(model,X_test,y_test):
 def Evaluate(evaluate):
     return evaluate
 
-<<<<<<< HEAD
+
 def main():
     print("Starting")
-=======
 
 def TestClassifer(testfile,vectorizer,tfidf_transformer,model):
     reviews_new = []
@@ -103,7 +102,6 @@ def TestClassifer(testfile,vectorizer,tfidf_transformer,model):
 
 
 def MakePrediction(file):
->>>>>>> 29d1851b11f945741aee5344d13977ee55957f36
     traindoc = "../FAQs/Questions.txt"
     trainClass = "../FAQs/Topics.txt"
 
@@ -118,4 +116,9 @@ def MakePrediction(file):
     # print(logEv)
 
     logTest = TestClassifer(file,vector[4],vector[2],trainLRModel)
-    return logTest
+    To = open("answers.txt","a")
+    To.write("Topic Modelling using Logistic Regression \n")
+    #To.write("Using Naive bayes \n")
+    for i in logTest:
+        To.write(i+" \n")
+    To.close()
