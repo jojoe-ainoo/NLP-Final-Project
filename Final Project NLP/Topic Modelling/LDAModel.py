@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[2]:
+# In[20]:
 
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer, TfidfTransformer
@@ -12,16 +12,6 @@ from sklearn.metrics.pairwise import euclidean_distances
 
 
 # In[3]:
-
-
-def display_topics(model, feature_names, no_top_words):
-    for topic_idx, topic in enumerate(model.components_):
-        print "Topic %d:" % (topic_idx)
-        print " ".join([feature_names[i]
-                        for i in topic.argsort()[:-no_top_words - 1:-1]])
-
-
-# In[4]:
 
 
 #restrcturing data in test file into a document-class grouping
@@ -47,94 +37,81 @@ def partitionData(trianTestFile,trianTestFileTopics):
     return ([document_data,document_class])
 
 
-# In[5]:
-dataframe = partitionData("../FAQs/Questions.txt","../FAQs/Topics.txt")
+# In[21]:
 
 
-vectorizer = CountVectorizer(
-    analyzer = 'word',
-    lowercase = False,
-)
+def vectorizer():
+    
+    dataframe = partitionData("../FAQs/Questions.txt","../FAQs/Topics.txt")
+    
+    vectorizer = CountVectorizer(
+        analyzer = 'word',
+        lowercase = False,
+    )
 
-data_vectorized = vectorizer.fit_transform(dataframe[0])
-features_nd = data_vectorized.toarray()
-
-
-# Convert raw frequency counts into TF-IDF values
-tfidf_transformer = TfidfTransformer()
-sent_tfidf = tfidf_transformer.fit_transform(data_vectorized).toarray()
-
-X_train, X_test, y_train, y_test  = train_test_split(
-        features_nd,
-        dataframe[1],
-        train_size=0.80,
-        random_state=1234)
+    data_vectorized = vectorizer.fit_transform(dataframe[0])
+    features_nd = data_vectorized.toarray()
 
 
-# In[15]:
+    # Convert raw frequency counts into TF-IDF values
+    tfidf_transformer = TfidfTransformer()
+    sent_tfidf = tfidf_transformer.fit_transform(data_vectorized).toarray()
 
 
-no_features = 1000
+    no_features = 1000
 
-# # LDA can only use raw term counts for LDA because it is a probabilistic graphical model
-tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words='english')
-tf = tf_vectorizer.fit_transform(dataframe[0])
-tf_feature_names = tf_vectorizer.get_feature_names()
-
-
-no_topics = 126
-
-# Run LDA
-lda_model = LatentDirichletAllocation(n_topics=no_topics, max_iter=5, learning_method='online', learning_offset=50.,random_state=0).fit(tf)
-lda_Z = lda_model.fit_transform(data_vectorized)
-
-# Build a Non-Negative Matrix Factorization Model
-nmf_model = NMF(n_components=no_topics)
-nmf_Z = nmf_model.fit_transform(data_vectorized)
+    # # LDA can only use raw term counts for LDA because it is a probabilistic graphical model
+    tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words='english')
+    tf = tf_vectorizer.fit_transform(dataframe[0])
+    tf_feature_names = tf_vectorizer.get_feature_names()
 
 
-# In[9]:
+    no_topics = 126
+
+    # Run LDA
+    lda_model = LatentDirichletAllocation(n_topics=no_topics, max_iter=5, learning_method='online', learning_offset=50.,random_state=0).fit(tf)
+    
+    lda_Z = lda_model.fit_transform(data_vectorized)
+    
+    return ([dataframe[1],lda_Z])
 
 
-def print_topics(model, vectorizer, top_n=10):
-    for idx, topic in enumerate(model.components_):
-        print("Topic %d:" % (idx))
-        print([(vectorizer.get_feature_names()[i], topic[i])
-                        for i in topic.argsort()[:-top_n - 1:-1]])
+# In[23]:
 
 
-# In[16]:
 
 #passing the test file with questions
 def passTestFile(questionFile):
+    
+    dataframe_lda_Z = vectorizer()#calling the vectorizer to return the transformed lda_model
+    
     tr_dataset = open(questionFile,"r")
 
-    document_data = []
+    text_questions = []
 
     line = tr_dataset.readline()
 
     while line:
-        document_data.append(line)
+        text_questions.append(line)
         line = tr_dataset.readline()
 
     tr_dataset.close()
-    tr_dataset_topics.close()
 
-    return (document_data)
+    #generating and printing all appropriate topics to questions
+    if len(text_questions) > 0:
+        for in text_questions:
+            x = lda_model.transform(vectorizer.transform([text_questions]))[0]
 
-text_questions = passTestFile("")
+            def most_similar(x, Z, top_n=5):
+                dists = euclidean_distances(x.reshape(1, -1), Z)
+                pairs = enumerate(dists[0])
+                most_similar = sorted(pairs, key=lambda item: item[1])[:top_n]
+                return most_similar
 
-#generating and printing all appropriate topics to questions
-for in text_questions:
-    x = lda_model.transform(vectorizer.transform([text_questions]))[0]
+            similarities = most_similar(x, dataframe_lda_Z[1])
 
-    def most_similar(x, Z, top_n=5):
-        dists = euclidean_distances(x.reshape(1, -1), Z)
-        pairs = enumerate(dists[0])
-        most_similar = sorted(pairs, key=lambda item: item[1])[:top_n]
-        return most_similar
+            document_id, similarity = similarities[0]
+            print(dataframe_lda_Z[0][document_id][:1000])
+    else:
+        print("Please pass a correct test data file!")
 
-    similarities = most_similar(x, lda_Z)
-
-    document_id, similarity = similarities[0]
-    print(dataframe[1][document_id][:1000])
