@@ -18,6 +18,7 @@ import re
 
 import LogisticsRModel
 import NaiveBayesModel
+import LDAModel
 
 
 
@@ -51,6 +52,7 @@ if __name__ == "__main__":
     if sys.argv[1] == "topic":
         NaiveBayesModel.topic_answering(sys.argv[2],"nb","u")
         LogisticsRModel.MakePrediction(sys.argv[2])
+        LDAModel.passTestFile(sys.argv[2])
     
     
 else:

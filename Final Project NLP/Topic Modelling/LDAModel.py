@@ -73,7 +73,7 @@ def vectorizer():
     
     lda_Z = lda_model.fit_transform(data_vectorized)
     
-    return ([dataframe[1],lda_Z])
+    return ([dataframe[1],lda_Z,lda_model])
 
 
 # In[23]:
@@ -82,9 +82,13 @@ def vectorizer():
 
 #passing the test file with questions
 def passTestFile(questionFile):
+
+    To = open("answers.txt","a")
+    To.write("Topic Modelling using  \n")
     
     dataframe_lda_Z = vectorizer()#calling the vectorizer to return the transformed lda_model
-    
+
+    lda_model = dataframe_lda_Z[2]
     tr_dataset = open(questionFile,"r")
 
     text_questions = []
@@ -99,8 +103,14 @@ def passTestFile(questionFile):
 
     #generating and printing all appropriate topics to questions
     if len(text_questions) > 0:
-        for in text_questions:
-            x = lda_model.transform(vectorizer.transform([text_questions]))[0]
+        for question in text_questions:
+            x = lda_model.transform(vectorizer.transform([question]))[0]
+
+               
+            
+            
+                
+            
 
             def most_similar(x, Z, top_n=5):
                 dists = euclidean_distances(x.reshape(1, -1), Z)
@@ -111,7 +121,7 @@ def passTestFile(questionFile):
             similarities = most_similar(x, dataframe_lda_Z[1])
 
             document_id, similarity = similarities[0]
-            print(dataframe_lda_Z[0][document_id][:1000])
-    else:
-        print("Please pass a correct test data file!")
-
+            t = dataframe_lda_Z[0][document_id][:1000]
+            To.write(t +" \n")
+    To.close()
+    
