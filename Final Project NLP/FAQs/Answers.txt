@@ -100,13 +100,13 @@
 100.	JSON stands for JavaScript Object Notation. JSON is a syntax for storing and exchanging data.
 101.	Node.js is an open source server environment. Node.js allows you to run JavaScript on the server.
 102.	AJAX can be used to read data from a web server - after the page has loaded, update a web page without reloading the page and send data to a web server - in the background.
-103.	HTML stands for Hypertext markup language. HTML describes the structure of Web pages using markup. HTML elements are the building blocks of HTML pages. 
+103.	HTML stands for Hypertext markup language. HTML describes the structure of Web pages using markup. HTML elements are the building blocks of HTML pages.
 104.	JavaScript is the programming language of HTML and the Web. JavaScript can make changes to HTML attributes and modify CSS.
 105.	for Cascading Style Sheets.
 106.	jQuery is a lightweight, "write less, do more", JavaScript library
 107.	SQL is a standard language for storing, manipulating and retrieving data in relational databases.
 108.	PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
-109.	RSS stands for "Really Simple Syndication". 
+109.	RSS stands for "Really Simple Syndication".
 110.	ReactJS basically is an open-source JavaScript library which is used for building user interfaces specifically for single page applications.
 111.	React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android.
 112.	Vue is a progressive framework for building user interfaces.
@@ -114,8 +114,8 @@
 114.	Responsive Web design is the approach that suggests that design and development should respond to the user's behavior and environment based on screen size, platform and orientation. The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries.
 115.	HTML5 is the latest evolution of the standard that defines HTML.
 116.	The Document Object Model (DOM) is an application programming interface (API) for valid HTML and well-formed XML documents.
-117.	A relational database is a set of formally described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables. 
-118.	A NoSQL (originally referring to "non SQL" or "non relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. 
+117.	A relational database is a set of formally described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables.
+118.	A NoSQL (originally referring to "non SQL" or "non relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
 119.	WordPress is an online, open source website creation tool written in PHP.
 120.	SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
 121.	The Fastest Goal in Soccer history was scored just over 2 seconds after kick-off.
@@ -145,7 +145,7 @@
 145.	The UEFA Champions League was founded in 1955.
 146.	The World Cup's top scorer is the retired German striker Miroslav Klose. He scored 24 goals over four tournaments.
 147.	The former French player Just Fontaine holds the record for top scorer in a single World Cup. In 1958 he sccored 13 goals.
-148.	Real Madrid was the first team to ever win the Champions League in 1955-56. 
+148.	Real Madrid was the first team to ever win the Champions League in 1955-56.
 149.	Tony Britten wrote the UEFA Champions League anthem in 1992 when the competition got rebranded.
 150.	The fastest goal scored in the Champions League was by Bayern Munich’s Roy Makkay versus Real Madrid in 2007.
 151.	The biggest win in World Cup Qualifying was in 2001, between Australia and American Samoa. The Australians won by 31 to 0.
@@ -156,13 +156,13 @@
 156.	Brazil (in 1958 and 1962) and Italy (in 1934 and 1938) are the only countries to win the competitions back-to-back.
 157.	Uruguay in 1930, Italy in 1934, England in 1966, Germany in 1974, Argentina in 1978 and France in 1998.
 158.	The Brazillain, Jairzinho is the only footballer to score at least one goal in every game of one competition.
-159.	 Rafael Marques, Lothar Matthaus and Antonio Carbajal all have 5 appearances. 
+159.	 Rafael Marques, Lothar Matthaus and Antonio Carbajal all have 5 appearances.
 160.	Former Cameroon striker, Roger Milla. He was 42-years old.
 161.	The best times to buy a new car are at the end of the month, the end of the quarter and the end of the year. Dealers and their salespeople are rewarded for meeting sales goals during those time periods, so the sale of a few more vehicles could result in their getting a huge bonus that is based on all the vehicles they sold before the end of that time period. In these situations, dealers and salespeople are so motivated to close a sale that they will let some new cars go with little-or-no profit in the deal.
 162.	No, there are no laws giving you a "three day right to cancel" or any kind of cooling-off period that would permit you to return a car that you bought. However, if the dealer puts that language in your contract (most dealers won't), then it might be possible. Just remember: if something you want is not in writing, you're probably not going to get it.
 163.	The dealer invoice price is NOT the real dealer cost on a new car or truck. Dealers get all kinds of cash incentives, rewards and bonuses after new vehicles are sold, which allows them to make huge profits when they sell at the invoice price.
 164.	In most cases, leasing is NOT cheaper than buying. If you typically keep new cars longer than three years, then buying is going to be cheaper in the long run.
-165.	A good lease deal is no money down, lease term 36 months or less, and a $200 monthly payment - or as close to this as you can get. 
+165.	A good lease deal is no money down, lease term 36 months or less, and a $200 monthly payment - or as close to this as you can get.
 166.	Our inventory is primarily 1-Owner Carfax Certified cars and truck. Most of our vehicles are Factory Certification Eligible.
 167.	Yes, simply fill out our locater request and we will locate a vehicle that meets your requirements.
 168.	Yes we welcome any independent inspection to be performed on all of our vehicles.
@@ -191,12 +191,12 @@
 191.	This is a vehicle history report based on the VIN number of the vehicle. A CarFax report typically provides information like how many owners the car has had and if it has been in an accident.
 192.	This is the amount that the dealership will credit you towards a new purchase based on the value of the vehicle that you have traded in.
 193.	If you don't mind listing the vehicle, marketing it, scheduling potential buyers, worrying about damage done during a test drive and other "costs," then you might choose to sell it yourself.
-194.	You will always find an extensive inventory of new Dodge cars and RAM trucks at competitive prices at our Dodge dealership, no matter the time of year. 
+194.	You will always find an extensive inventory of new Dodge cars and RAM trucks at competitive prices at our Dodge dealership, no matter the time of year.
 195.	If you want your car to run for years, be sure to get it regular maintenance. When you schedule regular maintenance at our Ford service center, you will feel confident in the health of your vehicle.
 196.	We buy from sellers like Mercedes-Benz Credit, BMW Financial, and etc....If you've ever leased or purchased a new car from a Mercedes-Benz Dealer, then you probably were financed through either your own credit union or Mercedes-Benz Credit Corp.
 197.	Leasing a new Toyota sedan or a new luxury SUV has several advantages. If you like the idea of driving a new car every few years, don't drive a lot of miles per year (12,000 or less), don't relish the idea of trading in or selling a vehicle after your purchase it, then leasing at our car dealership in Indianapolis, IN makes a lot of sense.
 198.	Not at all. We're living in a pre-owned vehicle "golden age", where the quality and reliability possessed by pre-owned cars, and especially certified pre-owned cars, is at an all-time high. For example, every certified used car for sale is exhaustively inspected, refurbished into "like new" condition, and comes with an exceptional warranty, maintenance discounts, and much more.
-199.	Anyone who is not currently affiliated with a car dealership, or has not worked for any car dealership in the past 5 years can write a review provided he/she has had firsthand experience with the dealership. 
+199.	Anyone who is not currently affiliated with a car dealership, or has not worked for any car dealership in the past 5 years can write a review provided he/she has had firsthand experience with the dealership.
 200.	Your check engine light could be on for a multitude of reasons from the gas cap not being sealed properly to sensors or an even bigger issue.
 1. Chicken.���
 2. Campbell's.���
@@ -402,11 +402,11 @@ Yes! It works great with an Apple TV (I use it on my 4th gen). This is excellent
 Yes you are able to independently play Apple Music (of the same subscription) on both your iPhone and HomePod concurrently.
 Hi. Yes, I've just done exactly that. Australia use compatible plugs and voltage. Only had it a couple of days, but the HomePod seems to be working fine for me here in NZ.
 not only are you unable to open spotify, you are unable to open other "third party" apps such as my local KRCC public radio app and or distribute the stream from that app, through my apple based home stereo system using apple express devices
-I have just set this up - via Apple TV 4th generation - works great as I purchased 2 home pods from the US and brought them up to Canada earlier. Simply pair the home pods and on Apple TV select the paired home pods in the Video out. 
+I have just set this up - via Apple TV 4th generation - works great as I purchased 2 home pods from the US and brought them up to Canada earlier. Simply pair the home pods and on Apple TV select the paired home pods in the Video out.
 I purchased one in America and use it in Japan, since I am an expat. Works fine. Doesn’t have all the features as it would in America and has trouble with artist names and song names that are Japanese. But if you speak English well you should have no problem.
 At launch, the only music app that will have full functionality (Hey Siri, play my pop playlist. Hey Siri, add this song to my favorites.) will be Apple Music. Any other music service can be played through airplay to HomePod, but you can only skip, search and edit playlists on the device, not through HomePod.
 HomePod natively only supports Apple Music as noted on the HomePod website.
-No, you cannot pair AirPods with the HomePod as bluetooth connectivity is not supported with the HomePod. 
+No, you cannot pair AirPods with the HomePod as bluetooth connectivity is not supported with the HomePod.
 You cannot set HomePod as your default speaker for your Mac as it is not an audio device, but an AirPlay device. AirPlay is automatically turned off when you shut your Mac down.
 Yes, no problem
 not as of yet
@@ -414,7 +414,7 @@ Yes. The iPhone 5SE is supported.
 You can currently use the HomePod for phone calls that you initiate on your iPhone and then use HomePod as a speakerphone. You can’t initiate the call on the HomePod.
 hue yes
 HomeKit Enabled Devices.
-I don't think so. 
+I don't think so.
 iBooks, audiobooks, homepod
 Power cord must be plugged into an outlet. There is no rechargeable battery.
 You will have to subscribe to Apple Music for unlimited music streaming on HomePod.
@@ -493,16 +493,16 @@ There is an LED on the top of the HomePod that lights up when Siri is recording
 2.	Bixby's name is not able to be changed.
 3.	Users must login with using a Samsung account in order to use Bixby Voice, thus it does not support incognito mode.
 4.	Yes, to use Bixby, you must be connected to a mobile data or Wi-Fi network.
-5.	The Bixby Voice Open Trivia feature allow users to ask general questions about an entity (i.e. a person, place or thing). Bixby Voice will provide news articles (text), videos, webpages, etc. to answer users' questions. 
+5.	The Bixby Voice Open Trivia feature allow users to ask general questions about an entity (i.e. a person, place or thing). Bixby Voice will provide news articles (text), videos, webpages, etc. to answer users' questions.
 6.	Yes, you can select another language from Bixby Home > Settings > Language and speaking style.
 7.	No, currently we are supporting one Bixby voice option.
 8.	In addition, you can also ask Bixby Voice questions, like "what is the weather like outside" or "what movies are playing nearby."You can find the supported Apps list and sample commands on  Apps with voice and Bixby Labs.
-9.	You can find your last conversation on My Bixby. My Bixby keeps track of all your conversations and helps you improve on them with phrases you can suggest to improve your Bixby experience. 
+9.	You can find your last conversation on My Bixby. My Bixby keeps track of all your conversations and helps you improve on them with phrases you can suggest to improve your Bixby experience.
 10.	Bixby will appear and will be animated on the screen when listening, and white and still when not listening.
 11.	You can create a reminder with specific tasks in text or checklist format, calls and text messages that you want to make later, and media contents that you want to revisit later such as photos (up to 8 photos in one reminder), videos, and web contents.
 12.	Bixby Home suggests contextually relevant cards based on your usage pattern, but it does not send you separate alerts or notifications.
 13.	Feel like you�re talking to a wall? If Bixby is not responding to your voice, get the problem solved and start communicating again. From the Home screen, navigate to Apps, and then touch Settings. Touch Apps, and then swipe to and touch BixbyVoice. Touch Storage > CLEAR DATA, and then touch CLEAR CACHE. Bixby will be refreshed and ready to chat again.
-14.	Bixby stores users� personal data in accordance with stringent security procedures. Users may choose to delete data that Bixby saves from Bixby�s settings at any time. Bixby only collects data necessary to improve or personalize your experience, and ensures that your personal information is never transmitted.       
+14.	Bixby stores users� personal data in accordance with stringent security procedures. Users may choose to delete data that Bixby saves from Bixby�s settings at any time. Bixby only collects data necessary to improve or personalize your experience, and ensures that your personal information is never transmitted.
 15.	Bixby Home serves as a gateway to Bixby�s various functions and presents your most contextually relevant apps and services on a single screen, so the content you care about is just a swipe away. Bixby learns your routine and serves up the information you need when you need it. It looks for patterns in your app usage to predict what you might be looking for, and when you�re most likely to look for it. The more you use your smartphone, the more relevant Bixby�s content suggestions will become. Bixby Home will automatically populate based on your actions, but you can also customize the experience to best suit your needs. You also have the options to pin your favorite cards to the top of your Home page for easy reference,and hide any cards that you no longer wish to see.
 16.	Reminder lets users do much more than simply log an appointment or create an alarm. The function utilizes Bixby�s voice support and contextual awareness to allow users to set smart reminders for specified times, places or circumstances. Reminder is also integrated into other apps. You can use Reminder to save webpage URLs in the Samsung Internet app, as well as messages that you�d like to get back to later in the Messages app. You can also pin reminders to your device�s Always On Display to make them visible at all times, and access your collected reminders via your device�s edge panel.
 17.	Bixby Vision�s advanced OCR (object character recognition) technology allows it to scan and recognize a total of 40 languages. These languages can then be interpreted into 104 different dialects via Google�s powerful translation database.
@@ -517,15 +517,15 @@ There is an LED on the top of the HomePod that lights up when Siri is recording
 26.	The Bixby platform is free for Residents and Property Managers to download and use. There are no monthly fees and no hidden costs. The only cost to Residents is a small transaction fee imposed by our payments partner, Stripe. These fees differ depending on how you pay. ACH payments (electronic payments directly from your bank account) incur a fee of .8% of the total transaction � up to a maximum of $5. Credit and debit card transactions incur a fee of 2.9% of the transaction total plus a flat $.30, paid by the Resident.
 27.	Currently, Bixby is only available in New York City, but we are growing fast. Stay tuned!
 28.	Bixby is free for Residents and Building Managers. But we still have to make money. We do this in two ways: Rent & payment fees: We collect a small fee ($.50 per transaction) from Property Managers.  Resident services: We also collect a small commission from our Service Partners each time you book a service through the Bixby app.
-29.	Help Bixby help you by providing feedback on how it responds to your commands. When you say a command and Bixby responds, you�ll see a drop-down arrow at the top of the screen. Touch it and swipe down, and you�ll see what Bixby heard and the choice it made. If Bixby heard you incorrectly, touch the phrase under What I heard, enter the correct phrase using the on-screen keyboard, and touch Next. Bixby will respond to the correct command. You can also edit Bixby�s response by touching a Service under Choices I made, and then selecting the correct service. 
+29.	Help Bixby help you by providing feedback on how it responds to your commands. When you say a command and Bixby responds, you�ll see a drop-down arrow at the top of the screen. Touch it and swipe down, and you�ll see what Bixby heard and the choice it made. If Bixby heard you incorrectly, touch the phrase under What I heard, enter the correct phrase using the on-screen keyboard, and touch Next. Bixby will respond to the correct command. You can also edit Bixby�s response by touching a Service under Choices I made, and then selecting the correct service.
 30.	You can raise or lower Bixby Voice's volume at any time. Just press the Bixby key to open Bixby Assistant Home, and then press the Volume Up/Down keys to adjust the volume. Note: You can also swipe down to see more volume controls.
 31.	You�ve been using the default New Bixby voice for a while now, and you are curious how the other voices sound. Press the Bixby key to open New Bixby Assistant Home. Touch More Options in the top right-hand corner and then touch Settings. Next, touch Language and voice style. To change New Bixby�s voice style, select your desired voice option under VOICE STYLE. To change New Bixby�s language, touch Language and choose your desired language.
 32.	There�s no need to fumble with the Bixby key when you want something done � just call Bixby with your voice. To set up Voice wake-up, open Bixby Assistant Home by pressing the Bixby key. Touch More Options > Settings. Touch Voice wake-up, and then touch the slider next to Wake with �Hi, Bixby.� From there, follow the on-screen prompts. Note: When you set up Bixby Voice for the first time, you will be prompted to set up Voice wake-up.
-33.	You love how Bixby responds to your voice, but what if you have music playing, or your alarm is going off? That�s no problem. You can use Voice wake-up when your phone speaker is playing media, control the Wake-up sensitivity, and more. 
+33.	You love how Bixby responds to your voice, but what if you have music playing, or your alarm is going off? That�s no problem. You can use Voice wake-up when your phone speaker is playing media, control the Wake-up sensitivity, and more.
 34.	During media (video/game/voice) recording, during a call (including outgoing call), while docked on the DeX Station, maximum power saving mode, emergency mode, kids mode and mirror link.
 35.	New Bixby is an intelligent, versatile, and zippy digital assistant that learns and adapts to you. And with the recent upgrade, it�s even better than before.
 36.	Press the Bixby key to open Bixby Assistant Home and then touch the keyboard icon in the lower left-hand corner. Use the keyboard to type a command to New Bixby and then touch the Send icon. New Bixby will read your command and complete it right away.
-37.	The newly updated Bixby boasts a faster response time and will adapt to your routines. Bixby will remember commands or information you�ve previously mentioned and apply it to future situations. 
+37.	The newly updated Bixby boasts a faster response time and will adapt to your routines. Bixby will remember commands or information you�ve previously mentioned and apply it to future situations.
 38.	Yes, the is another way. Maybe you prefer writing over speaking aloud. No sweat, New Bixby loves to read. You can type commands to New Bixby and it will understand.
 39.	First, make sure you have Spotify downloaded from the Play Store. Press the Bixby key to open Bixby Assistant Home, and then swipe left. Touch Spotify, and then touch CONNECT ACCOUNT. Log in or sign up for a Spotify account. Your Spotify account is now linked with Bixby. You're ready to try out some voice commands.
 40.	Bixby Labs is where Bixby experiments with new apps beyond default Bixby compatible apps. These experiments might not always work out just right, but Bixby always learns something new.
@@ -607,7 +607,7 @@ March 4, 1861
 John Wilkes Booth
 Yes
 General McClellan
-To free slaves 
+To free slaves
 Yes
 Yes
 Yes
@@ -688,17 +688,17 @@ Yes
 Anders Celsius
 named after him
 Yes
-Yes 
+Yes
 Yes
 Yes
 Yes he did
 He was professor of astronomy at Uppsala University
 The scale was reversed
 He determined the dependence of the boiling of water with atmospheric pressure.
- the Celsius temperature scale 
+ the Celsius temperature scale
 atmospheric pressure
 Uppsala, Sweden
-The scale was reversed by Carolus Linnaeus. 
+The scale was reversed by Carolus Linnaeus.
 professor of astronomy
 Celsius
 yes
@@ -777,7 +777,7 @@ Popkomm was held in Cologne before moving to Berlin.
 yes
 yes
 ill health
-the procedure used in geometry 
+the procedure used in geometry
 Time
 Gilberte
 yes
@@ -871,7 +871,7 @@ Yes
 No
 Yes
 Paris, France
-Martinique 
+Martinique
 Coulomb's Law
 no
 yes
@@ -1054,7 +1054,7 @@ relatively warm
 Yes
 Yes
 Twelfth Century
- The first verifiable written documents appeared in the twelfth century. 
+ The first verifiable written documents appeared in the twelfth century.
 Helsinki
 Christmas
 No
@@ -1148,7 +1148,7 @@ yes
 Ford St. Anothy in Axim
 yes
 yes
-yes 
+yes
 yes
 yes
 yes
@@ -1157,7 +1157,7 @@ Yes
 Ursidae (bear)
 One to two weeks
 20
-Ailuropoda melanoleuca melanoleuca and  Ailuropoda melanoleuca qinlingensis 
+Ailuropoda melanoleuca melanoleuca and  Ailuropoda melanoleuca qinlingensis
 Loans of Giant Pandas to American and Japanese zoos
 Yes
 Yes
@@ -1179,8 +1179,8 @@ Yes.
 Yes
 Yes
 between a wolf's toes
-between 32 and 68 kilograms 
-Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. Howling also helps to call pack members to a specific location. Howling can also serve as a declaration of territory, as shown in a dominant wolf&apos;s tendency to respond to a human imitation of a "rival" wolf in an area the wolf considers its own. 
+between 32 and 68 kilograms
+Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. Howling also helps to call pack members to a specific location. Howling can also serve as a declaration of territory, as shown in a dominant wolf&apos;s tendency to respond to a human imitation of a "rival" wolf in an area the wolf considers its own.
 the killing of several prey animals too numerous to eat at one sitting
 Yes
 Yes
@@ -1341,7 +1341,7 @@ Monroe was elected president in the election of 1816, and re-elected in 1820.
 Monroe Hill on the grounds of the University of Virginia.
 December 2, 1823
 His daughter Maria Hester Monroe Gouverneur
-As a result, the two nations moved closer toward the War of 1812. 
+As a result, the two nations moved closer toward the War of 1812.
 Monroe
 The Federalist Party
 no
@@ -1437,7 +1437,7 @@ language, country, and people
 Korean
 modern times
 There are about 78 million Korean speakers.
-The Korean Language contains nine parts of speech. 
+The Korean Language contains nine parts of speech.
 There are seven verb paradigms or speech levels in Korean.
 The Sino-Korean system is nearly entirely based on the Chinese numerals.
 Adjectives are also known as "descriptive verbs" or "stative verbs".
@@ -1479,7 +1479,7 @@ yes
 yes
 southern Eurasia and Africa, from Korea to South Africa and Spain
 60-110cm
-Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females. 
+Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females.
 yes
 The leopard has rosettes rather than cheetah's simple spots, but they lack internal spots, unlike the jaguar. The leopard is larger and less lanky than the cheetah but smaller than the jaguar.
 Leopards
@@ -1562,7 +1562,7 @@ Yes
 No
 Four
 Subject Verb Object
-Malay 
+Malay
 No
 No
 Malagasy
@@ -1662,7 +1662,7 @@ the tesla
 Yes
 AC
 Nikola Tesla
-the Austrian Polytechnic in Graz 
+the Austrian Polytechnic in Graz
 Yes
 Yes
 Yes
@@ -1727,19 +1727,19 @@ yes
 13 species and 7 genera
 yes
 River otters eat a variety of fish and shellfish, as well as small land mammals and birds.
-Sea otters (Enhydra lutris) live along the Pacific coast of North America. 
-The word "otter" derives from the Old English word otr, otor or oter. 
+Sea otters (Enhydra lutris) live along the Pacific coast of North America.
+The word "otter" derives from the Old English word otr, otor or oter.
 give birth
-Humans hunted them almost to extinction. 
-The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19. 
+Humans hunted them almost to extinction.
+The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19.
 Yes
 Yes
 No
 fish
 Holt
-Poaching, habitat loss, and toxins in gold mining.  
-A layer of air trapped in their fur.  
-The slide down snowy slopes, apparently for sheer enjoyment.  
+Poaching, habitat loss, and toxins in gold mining.
+A layer of air trapped in their fur.
+The slide down snowy slopes, apparently for sheer enjoyment.
 weasels, polecats, and badgers
 Long guard hair
 Otters
@@ -1829,7 +1829,7 @@ yes
 yes
 Yes
 300-600 kg (660-1320 lb)
-1002 kg (2200 lb) 
+1002 kg (2200 lb)
 It provides the animal with effective camouflage.
 no
 They gain double their weight.
@@ -1907,7 +1907,7 @@ The White Nights Festival.
 apartments
 Thousands of sculptures and statues.
 railway
-Peter the Great 
+Peter the Great
 1942
 yes
 Kirov Stadium (now demolished) was one of the largest stadiums anywhere in the world, and the home to FC Zenit St. Petersburg in 1950-1993 and 1995.
@@ -1954,7 +1954,7 @@ Monaco
 British East India Company
 1959
 NULL
-British East India Company 
+British East India Company
 British
 Singapore
 Yes
@@ -2026,7 +2026,7 @@ Yes
 No
 They have the ability to pull down prey substantially heavier than themselves.
 strike at the reptile's eyes with its paws
-Good cover, close to water, and plenty of prey 
+Good cover, close to water, and plenty of prey
 Yes
 60 square kilometers
 Yes
@@ -2117,7 +2117,7 @@ By the Spanish, in the early 18th century
 176,214 square kilometres
 88%
 For a military stronghold.
-Twice. 
+Twice.
 African women earns 0.65 * 0.718  = 46.67% of a European man earns in average
 Yes
 No
@@ -2406,87 +2406,87 @@ In Propositional Logic, Logical Inference algorithm can be solved by using a) Lo
 �Unification� process makes different logical expressions identical. Lifted inferences require finding substitute which can make a different expression looks identical. This process is called unification.
 In �Unification and Lifting� the algorithm that takes two sentences and returns a unifier is �Unify� algorithm.
 State space search is the most straight forward approach for planning algorithm because it takes account of everything for finding a solution.
-First check the computer's power cord to make sure it is completely plugged into the wall socket.  
-When your computer no longer responds to keyboard commands your best bet is to restart the computer. 
-As with most computer errors, your first step is to shut down your computer and restart it. 
-Make sure the monitor is on. If no power light (green or orange light) is seen on the monitor display try pressing the power button until it comes on.  
-Disconnect the video cable going from the back of the computer and verify that no pins are bent, burnt or broken. Verify no speakers, fans or other magnetic devices are close to the monitor. 
-Verify that the monitor is properly connected in the back of the monitor as well as to the back of the computer.  
-If this occurs, the resolution can be changed back to the original setting or you can manually adjust the monitor. 
-Users who have an optical mechanical mouse (most common mouse for desktop computers) are likely experiencing erratic behaviour because the mouse is not clean or is dirty.  
-If you're running any version of Microsoft Windows and are encountering issues with the mouse wheel, first attempt to adjust the mouse settings through the Mouse Properties window. This window can be accessed by opening the Control Panel and double-clicking the Mouse icon. 
-The keys on a keyboard are only clipped on, with a knife or other thin object, carefully pop the keys off, this will allow you to clean under the keys as well as cleaning the keys themselves. 
-To get into the Windows 7 / 10 Safe mode, as the computer is starting up press and hold your "F8 Key" which should bring up the "Windows Advanced Options Menu". Use your arrow keys to move to "Safe Mode" and press your Enter key. 
-Close all programs running on the computer and try again.  
-If you are running Microsoft Windows 7, Windows 10, or a later version of Microsoft Windows, you are eligible to update Microsoft Windows, and in some cases, your computer hardware with the latest drivers through Microsoft's update site, visit http://windowsupdate.microsoft.com 
-Users should not simply press the power button or restart the computer while Windows is still running unless there is an issue with the computer.  
-Double click the recycle bin icon on your desktop, here you will see all of the files within your bin. Select the files you wish to recover, right click and choose restore. 
-Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator. 
-If the e-mail box is full of other e-mail messages, and/or your storage space is only a few megabytes, it's possible that the attachment being sent cannot be received.  
-Just like an Internet URL no spaces are allowed in an e-mail address.  
-Your printer may be printing fuzzy, blurry, and/or other faint text because of dirty print heads.  
-Turn off the printer. Inspect the location or tray the printed paper ejects to. If the stuck paper is visible manually remove it. Remove all paper trays and any paper that may be stuck between the tray and the printer. If the stuck paper is visible manually remove it. Open the printer door that allows you access to the printer ink cartridges or toner and look for any stuck paper. If the stuck paper is visible manually remove it. Turn the printer back on. 
-Today all printer and other hardware manufacturers are providing downloads on the Internet to their software programs and drivers that are included with their products. 
-Verify that the network cable is properly connected to the back of the computer. In addition, when checking the connection of the network cable, ensure that the LED's on the network are properly illuminated.  
-Open Microsoft Explorer. From Explorer, click the Tools drop down menu and click the option "Map Network Drive." Specify the network drive or network computer as the folder.  
-Right-click My Computer. Click Properties. In the Properties window, click the Computer Name tab. Within this tab you'll be able to see the full computer name, workgroup and also a description.  
-A computer virus is a software program that has been intentionally created to cause a user grief, spread to other computers, or destroy data on an individual's computer. 
-All versions of Microsoft Windows do not come pre-installed with a virus protection program. This includes: Microsoft Windows 7 and Windows 10. 
-No. Computer viruses are software code designed to spread to computer files and other computers, delete files, and cause other problems with the data on the computer.  
-If your computer is infected with a virus formatting or erasing the hard disk drive and starting over will almost always remove any type of virus.  
-Microsoft Internet Explorer users can go to 'Tools' (or the little cog icon in the top left), then go to 'Safety' and choose 'Delete browsing history...', you can then choose to delete your Internet cookies. In Google Chrome, go to 'More Tools' and choose 'Clear browsing data...'. Firefox users can go to 'History', then choose 'Clear recent history...'. 
-Fines may be levied by license holders against the individual, department, or institution of up to three times the full price of the software, for each instance where the software was illegally installed.  
-For information about installing unsupported software, read: Installing Unsupported Applications on Your Workstation. 
-To make software suggestions, contact 6-TECH at 336-256-TECH (8324)  
-Not everyone has access to all of the same software. Because of budgetary rules, software which is bought with "student fee" money may only be used by units 
-ITS is pleased to be able to offer a number of software titles for purchase at reduced rates to campus affiliates. For information on current offerings see the Software Purchases page. 
-You do not need to download the software from the store every time you need to install it. 
-You can access all the information related to your completed orders, including the product keys and activation codes, in the Your Account/Orders section of the WebStore. 
-Just click "activate" when you are prompted. The serial number is embedded and you don't need to enter a new one, although it appears to prompt for one. 
-The terms 32-bit and 64-bit refer to the way a computer's processor (also called a CPU), handles information. The 64-bit version of Windows handles large amounts of random access memory (RAM) more effectively than a 32-bit system.  
-To install a 64-bit version of Windows, you need a CPU that's capable of running a 64-bit version of Windows. The benefits of using a 64-bit operating system are most apparent when you have a large amount of random access memory (RAM) installed on your computer, typically 4 GB of RAM or more. In such cases, because a 64-bit operating system can handle large amounts of memory more efficiently than a 32-bit operating system, a 64-bit system can be more responsive when running several programs at the same time and switching between them frequently.  
-To find out if your computer is running a 32-bit or 64-bit version of Windows in Windows 7 or Windows Vista: Open System by clicking the Start button, right-clicking Computer, and then clicking Properties. Under System, you can view the system type. 
-With an object server, the Client/Server application is written as a set of communicating objects. 
-It is a system that performs a protocol translation between different electronic mail delivery protocols. 
-It is a simple protocol used to exchange information between the routers. 
-It is a set of rules defining a very simple virtual terminal interaction. The NVT is used in the start of a Telnet session. 
-It is a sequence of IP addresses identifying the route a datagram must follow. A source route may optionally be included in an IP datagram header. 
-It is a protocol used to advertise the set of networks that can be reached with in an autonomous system. BGP enables this information to be shared with the autonomous system. This is newer than EGP (Exterior Gateway Protocol). 
-It is a protocol formerly used to exchange routing information between Internet core routers. 
-With a transaction server, the client invokes remote procedures that reside on the server with an SQL database engine.  
-With a database server, the client passes SQL requests as messages to the database server. The results of each SQL command are returned over the network.  
-User interface, Business Logic and Shared data. 
-Ubiquitous communications, Network OS extension, Binary large objects (BLOBs).Global directories and Network yellow pages. 
-Triggers are special user defined actions usually in the form of stored procedures, that are automatically invoked by the server based on data related events. . 
-Transparency really means hiding the network and its servers from the users and even the application programmers. 
-TP-Lite is simply the integration of TP Monitor functions in the database engines. TP-Heavy are TP Monitors which supports the Client/Server architecture and allow PC to initiate some very complex multiserver transaction from the desktop. 
-TP lite, based on stored procedures. TP heavy, based on the TP monitors. 
-This new model of Client/Server consists of thin, protable, "universal" clients that talk to superfat servers. In the simplest form, a web server returns documents when clients ask for them by name. The clients and server communicate using an RPC-like protocol called HTTP. 
-These are fully-loaded machines which includes multiprocessors, high-speed disk arrays for interview I/O and fault tolerant features. 
-There is no commonly accepted definition for a TP monitor. According to Jeri Edwards' a TP Monitor is "an OS for transaction processing". 
-They were originally introduced to run classes of applications that could service hundreds and sometimes thousands of clients. TP Monitors provide an OS - on top of existing OS - that connects in real time these thousands of humans with a pool of shared server processes. 
-There is a many-to-one relationship between clients and server. Clients always initiate the dialog by requesting a service. Servers are passively awaiting for requests from clients. 
-The triggers are called implicitly by database generated events, while stored procedures are called explicitly by client applications. 
-The grouped SQL statements are called Transactions (or) A transaction is a collection of actions embused with ACID properties. 
-The client,The server and Middleware. 
-The client side building block runs the client side of the application and The server side building block runs the server side of the application. 
-Transport stack, Network OS Service-specific middleware. 
-Task preemption, Task priority, Semaphores, Interprocess communications (IPC) Local/Remote Interprocess communication. 
-SQL is a powerful set-oriented language which was developed by IBM research for the databases that adhere to the relational model. 
-RPC hides the intricacies of the network by using the ordinary procedure call mechanism familiar to every programmer.  
-Resource Manager, Transaction Manager and Application Program. 
-process-per-client Architecture. (Example: Oracle 6, Informix )Multithreaded Architecture. (Example: Sybase, SQL server) Hybrid Architecture. 
-Non-GUI Client: These are applications, generate server requests with a minimal amount of man interaction. 
-GUI Clients: These are applicatoins, where occassional requests to the server result from a human interacting with a GUI (Example: Windows 3.x, NT 3.5 
-OOUI clients : These are applications, which are highly-iconic, object-oriented user interface that provides seamless access to information in very visual formats. (Example: MAC OS, Windows 95, NT 4.0) 
-OOUI clients : These are applications, which are highly-iconic, object-oriented user interface that provides seamless access to information in very visual formats. 
-Middleware is a distributed software needed to support interaction between clients and servers. In short, it is the software that is in the middle of the Client/Server systems and it acts as a bridge between the clients and servers.  
-It waits for client-initiated requests. Executes many requests at the same time. Takes care of VIP clients first. Initiates and runs background task activity. Keeps running. Grown bigger and faster. 
-It treats all processors as equal. Any processor can do the work of any other processor. Applications are divided into threads that can run concurrently on any available processor. 
-It includes the communication stacks, distributed directories, authentication services, network time, RPC, Queuing services along with the network OS extensions such as the distributed file and print services. 
-Database specific middleware,OLTP specific middleware,Groupware specific middleware. 
-It imposses hierarchy and a division of labour among processors. Only one designated processor, the master, controls (in a tightly coupled arrangement) slave processors dedicated to specific functions. 
-In the transaction server, the client component usually includes GUI and the server components usually consists of SQL transactions against a database.  
+First check the computer's power cord to make sure it is completely plugged into the wall socket.
+When your computer no longer responds to keyboard commands your best bet is to restart the computer.
+As with most computer errors, your first step is to shut down your computer and restart it.
+Make sure the monitor is on. If no power light (green or orange light) is seen on the monitor display try pressing the power button until it comes on.
+Disconnect the video cable going from the back of the computer and verify that no pins are bent, burnt or broken. Verify no speakers, fans or other magnetic devices are close to the monitor.
+Verify that the monitor is properly connected in the back of the monitor as well as to the back of the computer.
+If this occurs, the resolution can be changed back to the original setting or you can manually adjust the monitor.
+Users who have an optical mechanical mouse (most common mouse for desktop computers) are likely experiencing erratic behaviour because the mouse is not clean or is dirty.
+If you're running any version of Microsoft Windows and are encountering issues with the mouse wheel, first attempt to adjust the mouse settings through the Mouse Properties window. This window can be accessed by opening the Control Panel and double-clicking the Mouse icon.
+The keys on a keyboard are only clipped on, with a knife or other thin object, carefully pop the keys off, this will allow you to clean under the keys as well as cleaning the keys themselves.
+To get into the Windows 7 / 10 Safe mode, as the computer is starting up press and hold your "F8 Key" which should bring up the "Windows Advanced Options Menu". Use your arrow keys to move to "Safe Mode" and press your Enter key.
+Close all programs running on the computer and try again.
+If you are running Microsoft Windows 7, Windows 10, or a later version of Microsoft Windows, you are eligible to update Microsoft Windows, and in some cases, your computer hardware with the latest drivers through Microsoft's update site, visit http://windowsupdate.microsoft.com
+Users should not simply press the power button or restart the computer while Windows is still running unless there is an issue with the computer.
+Double click the recycle bin icon on your desktop, here you will see all of the files within your bin. Select the files you wish to recover, right click and choose restore.
+Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator.
+If the e-mail box is full of other e-mail messages, and/or your storage space is only a few megabytes, it's possible that the attachment being sent cannot be received.
+Just like an Internet URL no spaces are allowed in an e-mail address.
+Your printer may be printing fuzzy, blurry, and/or other faint text because of dirty print heads.
+Turn off the printer. Inspect the location or tray the printed paper ejects to. If the stuck paper is visible manually remove it. Remove all paper trays and any paper that may be stuck between the tray and the printer. If the stuck paper is visible manually remove it. Open the printer door that allows you access to the printer ink cartridges or toner and look for any stuck paper. If the stuck paper is visible manually remove it. Turn the printer back on.
+Today all printer and other hardware manufacturers are providing downloads on the Internet to their software programs and drivers that are included with their products.
+Verify that the network cable is properly connected to the back of the computer. In addition, when checking the connection of the network cable, ensure that the LED's on the network are properly illuminated.
+Open Microsoft Explorer. From Explorer, click the Tools drop down menu and click the option "Map Network Drive." Specify the network drive or network computer as the folder.
+Right-click My Computer. Click Properties. In the Properties window, click the Computer Name tab. Within this tab you'll be able to see the full computer name, workgroup and also a description.
+A computer virus is a software program that has been intentionally created to cause a user grief, spread to other computers, or destroy data on an individual's computer.
+All versions of Microsoft Windows do not come pre-installed with a virus protection program. This includes: Microsoft Windows 7 and Windows 10.
+No. Computer viruses are software code designed to spread to computer files and other computers, delete files, and cause other problems with the data on the computer.
+If your computer is infected with a virus formatting or erasing the hard disk drive and starting over will almost always remove any type of virus.
+Microsoft Internet Explorer users can go to 'Tools' (or the little cog icon in the top left), then go to 'Safety' and choose 'Delete browsing history...', you can then choose to delete your Internet cookies. In Google Chrome, go to 'More Tools' and choose 'Clear browsing data...'. Firefox users can go to 'History', then choose 'Clear recent history...'.
+Fines may be levied by license holders against the individual, department, or institution of up to three times the full price of the software, for each instance where the software was illegally installed.
+For information about installing unsupported software, read: Installing Unsupported Applications on Your Workstation.
+To make software suggestions, contact 6-TECH at 336-256-TECH (8324)
+Not everyone has access to all of the same software. Because of budgetary rules, software which is bought with "student fee" money may only be used by units
+ITS is pleased to be able to offer a number of software titles for purchase at reduced rates to campus affiliates. For information on current offerings see the Software Purchases page.
+You do not need to download the software from the store every time you need to install it.
+You can access all the information related to your completed orders, including the product keys and activation codes, in the Your Account/Orders section of the WebStore.
+Just click "activate" when you are prompted. The serial number is embedded and you don't need to enter a new one, although it appears to prompt for one.
+The terms 32-bit and 64-bit refer to the way a computer's processor (also called a CPU), handles information. The 64-bit version of Windows handles large amounts of random access memory (RAM) more effectively than a 32-bit system.
+To install a 64-bit version of Windows, you need a CPU that's capable of running a 64-bit version of Windows. The benefits of using a 64-bit operating system are most apparent when you have a large amount of random access memory (RAM) installed on your computer, typically 4 GB of RAM or more. In such cases, because a 64-bit operating system can handle large amounts of memory more efficiently than a 32-bit operating system, a 64-bit system can be more responsive when running several programs at the same time and switching between them frequently.
+To find out if your computer is running a 32-bit or 64-bit version of Windows in Windows 7 or Windows Vista: Open System by clicking the Start button, right-clicking Computer, and then clicking Properties. Under System, you can view the system type.
+With an object server, the Client/Server application is written as a set of communicating objects.
+It is a system that performs a protocol translation between different electronic mail delivery protocols.
+It is a simple protocol used to exchange information between the routers.
+It is a set of rules defining a very simple virtual terminal interaction. The NVT is used in the start of a Telnet session.
+It is a sequence of IP addresses identifying the route a datagram must follow. A source route may optionally be included in an IP datagram header.
+It is a protocol used to advertise the set of networks that can be reached with in an autonomous system. BGP enables this information to be shared with the autonomous system. This is newer than EGP (Exterior Gateway Protocol).
+It is a protocol formerly used to exchange routing information between Internet core routers.
+With a transaction server, the client invokes remote procedures that reside on the server with an SQL database engine.
+With a database server, the client passes SQL requests as messages to the database server. The results of each SQL command are returned over the network.
+User interface, Business Logic and Shared data.
+Ubiquitous communications, Network OS extension, Binary large objects (BLOBs).Global directories and Network yellow pages.
+Triggers are special user defined actions usually in the form of stored procedures, that are automatically invoked by the server based on data related events. .
+Transparency really means hiding the network and its servers from the users and even the application programmers.
+TP-Lite is simply the integration of TP Monitor functions in the database engines. TP-Heavy are TP Monitors which supports the Client/Server architecture and allow PC to initiate some very complex multiserver transaction from the desktop.
+TP lite, based on stored procedures. TP heavy, based on the TP monitors.
+This new model of Client/Server consists of thin, protable, "universal" clients that talk to superfat servers. In the simplest form, a web server returns documents when clients ask for them by name. The clients and server communicate using an RPC-like protocol called HTTP.
+These are fully-loaded machines which includes multiprocessors, high-speed disk arrays for interview I/O and fault tolerant features.
+There is no commonly accepted definition for a TP monitor. According to Jeri Edwards' a TP Monitor is "an OS for transaction processing".
+They were originally introduced to run classes of applications that could service hundreds and sometimes thousands of clients. TP Monitors provide an OS - on top of existing OS - that connects in real time these thousands of humans with a pool of shared server processes.
+There is a many-to-one relationship between clients and server. Clients always initiate the dialog by requesting a service. Servers are passively awaiting for requests from clients.
+The triggers are called implicitly by database generated events, while stored procedures are called explicitly by client applications.
+The grouped SQL statements are called Transactions (or) A transaction is a collection of actions embused with ACID properties.
+The client,The server and Middleware.
+The client side building block runs the client side of the application and The server side building block runs the server side of the application.
+Transport stack, Network OS Service-specific middleware.
+Task preemption, Task priority, Semaphores, Interprocess communications (IPC) Local/Remote Interprocess communication.
+SQL is a powerful set-oriented language which was developed by IBM research for the databases that adhere to the relational model.
+RPC hides the intricacies of the network by using the ordinary procedure call mechanism familiar to every programmer.
+Resource Manager, Transaction Manager and Application Program.
+process-per-client Architecture. (Example: Oracle 6, Informix )Multithreaded Architecture. (Example: Sybase, SQL server) Hybrid Architecture.
+Non-GUI Client: These are applications, generate server requests with a minimal amount of man interaction.
+GUI Clients: These are applicatoins, where occassional requests to the server result from a human interacting with a GUI (Example: Windows 3.x, NT 3.5
+OOUI clients : These are applications, which are highly-iconic, object-oriented user interface that provides seamless access to information in very visual formats. (Example: MAC OS, Windows 95, NT 4.0)
+OOUI clients : These are applications, which are highly-iconic, object-oriented user interface that provides seamless access to information in very visual formats.
+Middleware is a distributed software needed to support interaction between clients and servers. In short, it is the software that is in the middle of the Client/Server systems and it acts as a bridge between the clients and servers.
+It waits for client-initiated requests. Executes many requests at the same time. Takes care of VIP clients first. Initiates and runs background task activity. Keeps running. Grown bigger and faster.
+It treats all processors as equal. Any processor can do the work of any other processor. Applications are divided into threads that can run concurrently on any available processor.
+It includes the communication stacks, distributed directories, authentication services, network time, RPC, Queuing services along with the network OS extensions such as the distributed file and print services.
+Database specific middleware,OLTP specific middleware,Groupware specific middleware.
+It imposses hierarchy and a division of labour among processors. Only one designated processor, the master, controls (in a tightly coupled arrangement) slave processors dedicated to specific functions.
+In the transaction server, the client component usually includes GUI and the server components usually consists of SQL transactions against a database.
 On your computer, go to Gmail.com. Enter your google account/phone number and password. If information is already filled in and you want to sign into a different account, click use another account.
 On your computer, open Gmail. Click Settings on the top right. Click the inbox tab. In the "inbox" type section, select default. In the "Categories" section, check the tabs you want shown
 On your computer, open Gmail. Click Settings on the top right. At the top, choose a settings page such as General, Labels or Inbox. Make you changes and save your changes at the bottom when done.
@@ -2501,12 +2501,12 @@ Gmail ignores both dots "." and caps in both account creation and e-mail deliver
 If you receive e-mail intended for someone else using an address with different characters or numbers in the address, it could be because your address is in the BCC field (very common for spam) or because the receiver made an error in auto-forwarding sending them to the wrong account.
 In order to fully secure your account you must check both your Gmail account settings (Gmail Security Checklist) and your Google account settings (Account Security Checkup).
 To change your Gmail password, use a browser to log into the Gmail web interface at https://mail.google.com/ then go to:  Settings -> Accounts -> Change Account Settings -> Change Password.
-Pick a strong password including letters, numbers and other allowed symbols, and keep it just for Gmail - don't use it on other sites. 
+Pick a strong password including letters, numbers and other allowed symbols, and keep it just for Gmail - don't use it on other sites.
 To switch the account you are viewing, start by signing out of whatever account you are in, then go to https://mail.google.com/ and sign into the account you want to access. To sign in into another account you own in addition to the current one, click on your picture/avatar in the upper/right and select "Add account" from the drop-down panel.
 The answer to this is dependent on when (less or more than 30 days) and why (by you or due to a compromised account) the messages were deleted.
 If you are notified that your account has been disabled and you feel it is a mistake, a link will be provided under "Next steps for disabled accounts" where you may submit an appeal.
 For all non-Google email accounts you must ask your other provider for the SMTP Server name, port number and security setting they require you to use, and enter that information in the set-up boxes. If your "other account" is only a forwarding address and has no entitlement to use an SMTP server, then you cannot set it up as a Send Mail As address in Gmail
-To sync to your Google account when Sync Contacts is turned on, all contacts created on your phone must be tagged with the Google contact type. Some phones provide this as the default - others, notably Samsung, require you to select the Google contact type every time. If you do not do that, then the contact will only be saved on your phone, will not sync to your Google account, and will be lost if you reset your phone or change phones. 
+To sync to your Google account when Sync Contacts is turned on, all contacts created on your phone must be tagged with the Google contact type. Some phones provide this as the default - others, notably Samsung, require you to select the Google contact type every time. If you do not do that, then the contact will only be saved on your phone, will not sync to your Google account, and will be lost if you reset your phone or change phones.
 Gmail recently enforced a higher security sign in procedure no longer using OAuth as the default access method. While developers have received warning from Google, not all e-mail clients and apps have been updated to use the new protocol. To allow your email client apps to continue to sign in to Gmail the old way, you need to turn on access for these "Less secure Apps" in your Gmail security settings.
 Yes. You can do things like search on Google and watch YouTube videos that aren't age-restricted without signing in to a Google Account.
 Yes. A Google profile is only necessary if you want to share publicly or engage with content on Google+. A profile helps you communicate with the people you know from a variety of Google products " for example, sharing driving directions from Google Maps or sharing a video from YouTube. Your Google profile lets you control the details you share about yourself, not only on Google+ but through services like Gmail and Web Search.
@@ -2576,10 +2576,10 @@ A ledger is typically a database.The blockchain is a shared public ledger on whi
 Ledgers can be centralized or decentralized depending on public or private BlockChain.
 A distributed ledger is a database that is spread across several nodes or computing devices which are in layman terms the miners who run the algorithm on their computing devices. Every node copy and saves an identical copy of the ledger. Each participating node of the network updates itself independently.
 The most striking feature of distributed ledger technology is that the ledger is not maintained by any central authority. Updates to the ledger are independent and done by each node. The nodes then vote on the update(transaction) to ensure that the majority agrees with the conclusion. This voting and agreement on one copy of the ledger is called consensus and is executed by a consensus algorithm.
-BlockChains are only a form of distributed ledger technology. Every distributed ledger doesn't use a chain of blocks to provide a secure and valid distributed confidenceA BlockChain is distributed and is managed by peer-to-peer networks. Since it is a distributed ledger, it can exist without a centralized authority or server managing it, and its data quality can be maintained by database replication and computational trust. 
-The structure of the BlockChain makes it distinct from other kinds of distributed ledgers. Data on a BlockChain is grouped together and organized in blocks. The blocks are then linked to one another and secured using  ECC cryptography. 
+BlockChains are only a form of distributed ledger technology. Every distributed ledger doesn't use a chain of blocks to provide a secure and valid distributed confidenceA BlockChain is distributed and is managed by peer-to-peer networks. Since it is a distributed ledger, it can exist without a centralized authority or server managing it, and its data quality can be maintained by database replication and computational trust.
+The structure of the BlockChain makes it distinct from other kinds of distributed ledgers. Data on a BlockChain is grouped together and organized in blocks. The blocks are then linked to one another and secured using  ECC cryptography.
 A quorum is the number of nodes required to reach agreement within a system. FBAs instead use "quorum slices". A quorum slice is a subset of a quorum, which can convince another specific node to agree.
-Segment Tree is a basically a binary tree used for storing the intervals or segments. The underlying principle behind this data structure is to store certain values of ranges as a balanced binary tree and hence query and update can be performed efficiently. 
+Segment Tree is a basically a binary tree used for storing the intervals or segments. The underlying principle behind this data structure is to store certain values of ranges as a balanced binary tree and hence query and update can be performed efficiently.
 Diffie-Hellman is an algorithm used to exchange a secret key between two parties. It is used in symmetric encryption algorithms like AES
 Boxes are linked backward to the previous block in BlockChain.Genesis block is the first block of the BlockChain.A block can never have more than one parent block.
 import math import sys def convert(example):var3=[]for i inexample:i=i.lower() var3.append return var3 P=input("Enter the Message") x=convert(P) print(x)
