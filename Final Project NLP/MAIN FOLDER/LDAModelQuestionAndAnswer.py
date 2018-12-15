@@ -1,16 +1,15 @@
 
 # coding: utf-8
 
-# In[57]:
+# In[93]:
 
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer, TfidfTransformer
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 from sklearn.model_selection import train_test_split
-from sklearn.metrics.pairwise import euclidean_distances
 
 
-# In[58]:
+# In[98]:
 
 
 #restrcturing data in test file into a document-class grouping
@@ -25,8 +24,9 @@ def partitionData(trianTestFile,trianTestFileTopics):
     line2 = tr_dataset_topics.readline()
 
     while line:
-        document_data.append(line)
-        document_class.append(line2)
+        document_data.append(line.replace("\t","").replace("\n","").replace("\r",""))
+        
+        document_class.append(line2.replace("\t","").replace("\n","").replace("\r",""))
         line = tr_dataset.readline()
         line2 = tr_dataset_topics.readline()
 
@@ -36,16 +36,33 @@ def partitionData(trianTestFile,trianTestFileTopics):
     return ([document_data,document_class])
 
 
-# In[54]:
+# In[99]:
 
 
 def vectorizer():
     
-    dataframe = partitionData("../FAQs/Questions.txt","../FAQs/Topics.txt")
+    dataframe = partitionData("../FAQs/Questions.txt","../FAQs/Answers.txt")
+     
+    #using rule-based to normalize the data
+    #Rule 1: All words should be converted into lowercase letters
     
+    #Rule 2: The encoding scheme used should be utf-8
+    
+    #Rule 3: The lower and upper boundary of the range of n-values 
+             #for different n-grams to be extracted should be [1,1]
+        
+    #Rule 4: When building the vocabulary ignore terms that have a document 
+             #frequency strictly higher than the given threshold which is 1.0
+        
+    #Rule 5: When building the vocabulary ignore terms that have a document 
+             #frequency strictly lower than the given threshold which is 1
     vectorizer = CountVectorizer(
         analyzer = 'word',
-        lowercase = False,
+        lowercase=True,
+        encoding='utf-8',
+        ngram_range=(1, 1),
+        max_df=1.0,
+        min_df=1,
     )
 
     data_vectorized = vectorizer.fit_transform(dataframe[0])
@@ -65,7 +82,7 @@ def vectorizer():
     tf_feature_names = tf_vectorizer.get_feature_names()
 
 
-    no_topics = 10
+    no_topics = 126
 
     # Run LDA
     lda_model = LatentDirichletAllocation(n_topics=no_topics, max_iter=5, learning_method='online', learning_offset=50.,random_state=0).fit(tf)
@@ -75,7 +92,7 @@ def vectorizer():
     return ([dataframe[1],lda_Z,lda_model,vectorizer])
 
 
-# In[55]:
+# In[100]:
 
 
 
@@ -87,11 +104,8 @@ def passTestFile(questionFile):
     vectorizerObj = dataframe_lda_Z[3]
     tr_dataset = open(questionFile,"r")
 
-    To = open("answers.txt","a")
-    To.write("Topic Modelling using LDA \n")
-
     text_questions = []
-
+    To = open("answers.txt","a")
     line = tr_dataset.readline()
 
     while line:
@@ -117,5 +131,10 @@ def passTestFile(questionFile):
             t = dataframe_lda_Z[0][document_id][:1000]
             To.write(t +" \n")
     To.close()
+
+
+
+
+
 
 
