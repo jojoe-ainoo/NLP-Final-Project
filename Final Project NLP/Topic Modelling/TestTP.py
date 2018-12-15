@@ -1,5 +1,7 @@
 #  Code to Test
 
+import LogisticsRModel
+
 
 def TestClassifer(testfile,vectorizer,tfidf_transformer,model):
     reviews_new = []
