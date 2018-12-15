@@ -82,8 +82,24 @@ def PredictResults(model,X_test,y_test):
 def Evaluate(evaluate):
     return evaluate
 
-def main():
-    print("Start Running Main Methods")
+
+def TestClassifer(testfile,vectorizer,tfidf_transformer,model):
+    reviews_new = []
+    with open(testfile) as f:
+        for i in f:
+            reviews_new.append(i[:-1])
+
+    reviews_new_counts = vectorizer.transform(reviews_new)
+    reviews_new_tfidf = tfidf_transformer.transform(reviews_new_counts)
+
+    # Have classifier make a prediction
+    print("   ")
+    print("----> Making Prediction")
+    pred = model.predict(reviews_new_tfidf)
+    return pred
+
+
+def MakePrediction(file):
     traindoc = "../FAQs/Questions.txt"
     trainClass = "../FAQs/Topics.txt"
 
@@ -94,7 +110,8 @@ def main():
     split = Split(vector[1],classes)
     trainLRModel = LogisticsRegressionTrainer(split[0], split[2])
     predLR = PredictResults(trainLRModel,split[1],split[3])
-    logEv =  Evaluate(predLR[1])
-    print(logEv)
+    # logEv =  Evaluate(predLR[1])
+    # print(logEv)
 
-main()
+    logTest = TestClassifer(file,vector[4],vector[2],trainLRModel)
+    return logTest
